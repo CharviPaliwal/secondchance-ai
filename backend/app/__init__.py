@@ -1,0 +1,1 @@
+"""SecondChance AI backend package."""

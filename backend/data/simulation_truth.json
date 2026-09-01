@@ -1,0 +1,7002 @@
+[
+  {
+    "transaction_id": "TXN_0001",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1941836045
+  },
+  {
+    "transaction_id": "TXN_0002",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 956262057
+  },
+  {
+    "transaction_id": "TXN_0003",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 519839099
+  },
+  {
+    "transaction_id": "TXN_0004",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 825489542
+  },
+  {
+    "transaction_id": "TXN_0005",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1862060200
+  },
+  {
+    "transaction_id": "TXN_0006",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1168897526
+  },
+  {
+    "transaction_id": "TXN_0007",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1576190880
+  },
+  {
+    "transaction_id": "TXN_0008",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1978245249
+  },
+  {
+    "transaction_id": "TXN_0009",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 917374867
+  },
+  {
+    "transaction_id": "TXN_0010",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1530897005
+  },
+  {
+    "transaction_id": "TXN_0011",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 782701636
+  },
+  {
+    "transaction_id": "TXN_0012",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 855112419
+  },
+  {
+    "transaction_id": "TXN_0013",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 288651435
+  },
+  {
+    "transaction_id": "TXN_0014",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1662949380
+  },
+  {
+    "transaction_id": "TXN_0015",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 856392771
+  },
+  {
+    "transaction_id": "TXN_0016",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1719308518
+  },
+  {
+    "transaction_id": "TXN_0017",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1640647608
+  },
+  {
+    "transaction_id": "TXN_0018",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1194749641
+  },
+  {
+    "transaction_id": "TXN_0019",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1636111663
+  },
+  {
+    "transaction_id": "TXN_0020",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 350878929
+  },
+  {
+    "transaction_id": "TXN_0021",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 767785066
+  },
+  {
+    "transaction_id": "TXN_0022",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 714629191
+  },
+  {
+    "transaction_id": "TXN_0023",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1863850563
+  },
+  {
+    "transaction_id": "TXN_0024",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 238137234
+  },
+  {
+    "transaction_id": "TXN_0025",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1352874218
+  },
+  {
+    "transaction_id": "TXN_0026",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1727282104
+  },
+  {
+    "transaction_id": "TXN_0027",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 209056529
+  },
+  {
+    "transaction_id": "TXN_0028",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 589598930
+  },
+  {
+    "transaction_id": "TXN_0029",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 409739431
+  },
+  {
+    "transaction_id": "TXN_0030",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 365431251
+  },
+  {
+    "transaction_id": "TXN_0031",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2095704762
+  },
+  {
+    "transaction_id": "TXN_0032",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 551861261
+  },
+  {
+    "transaction_id": "TXN_0033",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 935903509
+  },
+  {
+    "transaction_id": "TXN_0034",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 15413377
+  },
+  {
+    "transaction_id": "TXN_0035",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 232638132
+  },
+  {
+    "transaction_id": "TXN_0036",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 727167735
+  },
+  {
+    "transaction_id": "TXN_0037",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 471767324
+  },
+  {
+    "transaction_id": "TXN_0038",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1087104688
+  },
+  {
+    "transaction_id": "TXN_0039",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 780301546
+  },
+  {
+    "transaction_id": "TXN_0040",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1650592647
+  },
+  {
+    "transaction_id": "TXN_0041",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 562921223
+  },
+  {
+    "transaction_id": "TXN_0042",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1791346652
+  },
+  {
+    "transaction_id": "TXN_0043",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 911181929
+  },
+  {
+    "transaction_id": "TXN_0044",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 98307574
+  },
+  {
+    "transaction_id": "TXN_0045",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1220897877
+  },
+  {
+    "transaction_id": "TXN_0046",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1619420242
+  },
+  {
+    "transaction_id": "TXN_0047",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1849079509
+  },
+  {
+    "transaction_id": "TXN_0048",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1037633538
+  },
+  {
+    "transaction_id": "TXN_0049",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 749627780
+  },
+  {
+    "transaction_id": "TXN_0050",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 259171017
+  },
+  {
+    "transaction_id": "TXN_0051",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1976855936
+  },
+  {
+    "transaction_id": "TXN_0052",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 853449362
+  },
+  {
+    "transaction_id": "TXN_0053",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 456779000
+  },
+  {
+    "transaction_id": "TXN_0054",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1567652971
+  },
+  {
+    "transaction_id": "TXN_0055",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1082465812
+  },
+  {
+    "transaction_id": "TXN_0056",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2075366229
+  },
+  {
+    "transaction_id": "TXN_0057",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 378897244
+  },
+  {
+    "transaction_id": "TXN_0058",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1536294844
+  },
+  {
+    "transaction_id": "TXN_0059",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 482039054
+  },
+  {
+    "transaction_id": "TXN_0060",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1039921616
+  },
+  {
+    "transaction_id": "TXN_0061",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1620248141
+  },
+  {
+    "transaction_id": "TXN_0062",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 195774225
+  },
+  {
+    "transaction_id": "TXN_0063",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 146172876
+  },
+  {
+    "transaction_id": "TXN_0064",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 617259342
+  },
+  {
+    "transaction_id": "TXN_0065",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1149439036
+  },
+  {
+    "transaction_id": "TXN_0066",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 801933713
+  },
+  {
+    "transaction_id": "TXN_0067",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 485600105
+  },
+  {
+    "transaction_id": "TXN_0068",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 930670184
+  },
+  {
+    "transaction_id": "TXN_0069",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2082225602
+  },
+  {
+    "transaction_id": "TXN_0070",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 715423338
+  },
+  {
+    "transaction_id": "TXN_0071",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2002064428
+  },
+  {
+    "transaction_id": "TXN_0072",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1291839616
+  },
+  {
+    "transaction_id": "TXN_0073",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1461035662
+  },
+  {
+    "transaction_id": "TXN_0074",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 178587731
+  },
+  {
+    "transaction_id": "TXN_0075",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1329010164
+  },
+  {
+    "transaction_id": "TXN_0076",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 82881012
+  },
+  {
+    "transaction_id": "TXN_0077",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1350602997
+  },
+  {
+    "transaction_id": "TXN_0078",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 946059738
+  },
+  {
+    "transaction_id": "TXN_0079",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2109289924
+  },
+  {
+    "transaction_id": "TXN_0080",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 54553842
+  },
+  {
+    "transaction_id": "TXN_0081",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 17782446
+  },
+  {
+    "transaction_id": "TXN_0082",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1058049971
+  },
+  {
+    "transaction_id": "TXN_0083",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 660173150
+  },
+  {
+    "transaction_id": "TXN_0084",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1996711139
+  },
+  {
+    "transaction_id": "TXN_0085",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 125714341
+  },
+  {
+    "transaction_id": "TXN_0086",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 773179341
+  },
+  {
+    "transaction_id": "TXN_0087",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 918338874
+  },
+  {
+    "transaction_id": "TXN_0088",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1037835285
+  },
+  {
+    "transaction_id": "TXN_0089",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 263891220
+  },
+  {
+    "transaction_id": "TXN_0090",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 832669228
+  },
+  {
+    "transaction_id": "TXN_0091",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1720603093
+  },
+  {
+    "transaction_id": "TXN_0092",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1532233065
+  },
+  {
+    "transaction_id": "TXN_0093",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1130165836
+  },
+  {
+    "transaction_id": "TXN_0094",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1340877819
+  },
+  {
+    "transaction_id": "TXN_0095",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 437019416
+  },
+  {
+    "transaction_id": "TXN_0096",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1843413009
+  },
+  {
+    "transaction_id": "TXN_0097",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1734389319
+  },
+  {
+    "transaction_id": "TXN_0098",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 247303025
+  },
+  {
+    "transaction_id": "TXN_0099",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 241869448
+  },
+  {
+    "transaction_id": "TXN_0100",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1072669164
+  },
+  {
+    "transaction_id": "TXN_0101",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 395554158
+  },
+  {
+    "transaction_id": "TXN_0102",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 909185745
+  },
+  {
+    "transaction_id": "TXN_0103",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 480263066
+  },
+  {
+    "transaction_id": "TXN_0104",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 962041587
+  },
+  {
+    "transaction_id": "TXN_0105",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 194109632
+  },
+  {
+    "transaction_id": "TXN_0106",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 433475727
+  },
+  {
+    "transaction_id": "TXN_0107",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1277388387
+  },
+  {
+    "transaction_id": "TXN_0108",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1169328956
+  },
+  {
+    "transaction_id": "TXN_0109",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 417984699
+  },
+  {
+    "transaction_id": "TXN_0110",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2025057842
+  },
+  {
+    "transaction_id": "TXN_0111",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1826796712
+  },
+  {
+    "transaction_id": "TXN_0112",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2006731843
+  },
+  {
+    "transaction_id": "TXN_0113",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 747517706
+  },
+  {
+    "transaction_id": "TXN_0114",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1475818885
+  },
+  {
+    "transaction_id": "TXN_0115",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1347608923
+  },
+  {
+    "transaction_id": "TXN_0116",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1999914201
+  },
+  {
+    "transaction_id": "TXN_0117",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 380246088
+  },
+  {
+    "transaction_id": "TXN_0118",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1808563590
+  },
+  {
+    "transaction_id": "TXN_0119",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 292696799
+  },
+  {
+    "transaction_id": "TXN_0120",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2039481788
+  },
+  {
+    "transaction_id": "TXN_0121",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2145606958
+  },
+  {
+    "transaction_id": "TXN_0122",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 137864743
+  },
+  {
+    "transaction_id": "TXN_0123",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1656766889
+  },
+  {
+    "transaction_id": "TXN_0124",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 317114323
+  },
+  {
+    "transaction_id": "TXN_0125",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 559171496
+  },
+  {
+    "transaction_id": "TXN_0126",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1407720425
+  },
+  {
+    "transaction_id": "TXN_0127",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 404877959
+  },
+  {
+    "transaction_id": "TXN_0128",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 159448725
+  },
+  {
+    "transaction_id": "TXN_0129",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1098229543
+  },
+  {
+    "transaction_id": "TXN_0130",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1911805735
+  },
+  {
+    "transaction_id": "TXN_0131",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 305123970
+  },
+  {
+    "transaction_id": "TXN_0132",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1847115565
+  },
+  {
+    "transaction_id": "TXN_0133",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1161981630
+  },
+  {
+    "transaction_id": "TXN_0134",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 818927955
+  },
+  {
+    "transaction_id": "TXN_0135",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 634418052
+  },
+  {
+    "transaction_id": "TXN_0136",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1458911448
+  },
+  {
+    "transaction_id": "TXN_0137",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1433688981
+  },
+  {
+    "transaction_id": "TXN_0138",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2116411230
+  },
+  {
+    "transaction_id": "TXN_0139",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1700190804
+  },
+  {
+    "transaction_id": "TXN_0140",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1779174221
+  },
+  {
+    "transaction_id": "TXN_0141",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1598025205
+  },
+  {
+    "transaction_id": "TXN_0142",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1180099907
+  },
+  {
+    "transaction_id": "TXN_0143",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2050518636
+  },
+  {
+    "transaction_id": "TXN_0144",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1392595316
+  },
+  {
+    "transaction_id": "TXN_0145",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1150091163
+  },
+  {
+    "transaction_id": "TXN_0146",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1307663239
+  },
+  {
+    "transaction_id": "TXN_0147",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1762043793
+  },
+  {
+    "transaction_id": "TXN_0148",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1482080746
+  },
+  {
+    "transaction_id": "TXN_0149",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 170610040
+  },
+  {
+    "transaction_id": "TXN_0150",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 189659625
+  },
+  {
+    "transaction_id": "TXN_0151",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1061127652
+  },
+  {
+    "transaction_id": "TXN_0152",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1636992151
+  },
+  {
+    "transaction_id": "TXN_0153",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1290927117
+  },
+  {
+    "transaction_id": "TXN_0154",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 962253242
+  },
+  {
+    "transaction_id": "TXN_0155",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2109449520
+  },
+  {
+    "transaction_id": "TXN_0156",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1593269441
+  },
+  {
+    "transaction_id": "TXN_0157",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1272082860
+  },
+  {
+    "transaction_id": "TXN_0158",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2054691799
+  },
+  {
+    "transaction_id": "TXN_0159",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 476009365
+  },
+  {
+    "transaction_id": "TXN_0160",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 270706214
+  },
+  {
+    "transaction_id": "TXN_0161",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1990950850
+  },
+  {
+    "transaction_id": "TXN_0162",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1429270099
+  },
+  {
+    "transaction_id": "TXN_0163",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 237053286
+  },
+  {
+    "transaction_id": "TXN_0164",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1276429366
+  },
+  {
+    "transaction_id": "TXN_0165",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1839348888
+  },
+  {
+    "transaction_id": "TXN_0166",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1078019092
+  },
+  {
+    "transaction_id": "TXN_0167",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1537158295
+  },
+  {
+    "transaction_id": "TXN_0168",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1220198087
+  },
+  {
+    "transaction_id": "TXN_0169",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1558650594
+  },
+  {
+    "transaction_id": "TXN_0170",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 168560578
+  },
+  {
+    "transaction_id": "TXN_0171",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1592841245
+  },
+  {
+    "transaction_id": "TXN_0172",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 116466390
+  },
+  {
+    "transaction_id": "TXN_0173",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 998491182
+  },
+  {
+    "transaction_id": "TXN_0174",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1679095310
+  },
+  {
+    "transaction_id": "TXN_0175",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1226362977
+  },
+  {
+    "transaction_id": "TXN_0176",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1334154562
+  },
+  {
+    "transaction_id": "TXN_0177",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1105972772
+  },
+  {
+    "transaction_id": "TXN_0178",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1682588311
+  },
+  {
+    "transaction_id": "TXN_0179",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1356196689
+  },
+  {
+    "transaction_id": "TXN_0180",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 903212228
+  },
+  {
+    "transaction_id": "TXN_0181",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1227296328
+  },
+  {
+    "transaction_id": "TXN_0182",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 176321526
+  },
+  {
+    "transaction_id": "TXN_0183",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1002620150
+  },
+  {
+    "transaction_id": "TXN_0184",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 116577108
+  },
+  {
+    "transaction_id": "TXN_0185",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1648638059
+  },
+  {
+    "transaction_id": "TXN_0186",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 836589465
+  },
+  {
+    "transaction_id": "TXN_0187",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1351129608
+  },
+  {
+    "transaction_id": "TXN_0188",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 605391117
+  },
+  {
+    "transaction_id": "TXN_0189",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 825069660
+  },
+  {
+    "transaction_id": "TXN_0190",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1416713500
+  },
+  {
+    "transaction_id": "TXN_0191",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 559197979
+  },
+  {
+    "transaction_id": "TXN_0192",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 328431171
+  },
+  {
+    "transaction_id": "TXN_0193",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1219321556
+  },
+  {
+    "transaction_id": "TXN_0194",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1919632410
+  },
+  {
+    "transaction_id": "TXN_0195",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 126427540
+  },
+  {
+    "transaction_id": "TXN_0196",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2131774427
+  },
+  {
+    "transaction_id": "TXN_0197",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 337586576
+  },
+  {
+    "transaction_id": "TXN_0198",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1981985632
+  },
+  {
+    "transaction_id": "TXN_0199",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1219648332
+  },
+  {
+    "transaction_id": "TXN_0200",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 851694565
+  },
+  {
+    "transaction_id": "TXN_0201",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1179588224
+  },
+  {
+    "transaction_id": "TXN_0202",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 572456133
+  },
+  {
+    "transaction_id": "TXN_0203",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1967872882
+  },
+  {
+    "transaction_id": "TXN_0204",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 444118785
+  },
+  {
+    "transaction_id": "TXN_0205",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 24505615
+  },
+  {
+    "transaction_id": "TXN_0206",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1019447390
+  },
+  {
+    "transaction_id": "TXN_0207",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 779988179
+  },
+  {
+    "transaction_id": "TXN_0208",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 590075159
+  },
+  {
+    "transaction_id": "TXN_0209",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 249049098
+  },
+  {
+    "transaction_id": "TXN_0210",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 803425487
+  },
+  {
+    "transaction_id": "TXN_0211",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1022455171
+  },
+  {
+    "transaction_id": "TXN_0212",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1302141588
+  },
+  {
+    "transaction_id": "TXN_0213",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 704619255
+  },
+  {
+    "transaction_id": "TXN_0214",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 555443252
+  },
+  {
+    "transaction_id": "TXN_0215",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 980744319
+  },
+  {
+    "transaction_id": "TXN_0216",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1676273274
+  },
+  {
+    "transaction_id": "TXN_0217",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1220680082
+  },
+  {
+    "transaction_id": "TXN_0218",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1824777491
+  },
+  {
+    "transaction_id": "TXN_0219",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 395634119
+  },
+  {
+    "transaction_id": "TXN_0220",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1795079864
+  },
+  {
+    "transaction_id": "TXN_0221",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2047903099
+  },
+  {
+    "transaction_id": "TXN_0222",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1153140040
+  },
+  {
+    "transaction_id": "TXN_0223",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 242133420
+  },
+  {
+    "transaction_id": "TXN_0224",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1504728788
+  },
+  {
+    "transaction_id": "TXN_0225",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 941353263
+  },
+  {
+    "transaction_id": "TXN_0226",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1424372166
+  },
+  {
+    "transaction_id": "TXN_0227",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1080494694
+  },
+  {
+    "transaction_id": "TXN_0228",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 63872016
+  },
+  {
+    "transaction_id": "TXN_0229",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1469306743
+  },
+  {
+    "transaction_id": "TXN_0230",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 836571072
+  },
+  {
+    "transaction_id": "TXN_0231",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2114943643
+  },
+  {
+    "transaction_id": "TXN_0232",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1804313306
+  },
+  {
+    "transaction_id": "TXN_0233",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1983893310
+  },
+  {
+    "transaction_id": "TXN_0234",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 186773289
+  },
+  {
+    "transaction_id": "TXN_0235",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1807117068
+  },
+  {
+    "transaction_id": "TXN_0236",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 873253568
+  },
+  {
+    "transaction_id": "TXN_0237",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 321905642
+  },
+  {
+    "transaction_id": "TXN_0238",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 586801703
+  },
+  {
+    "transaction_id": "TXN_0239",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1593911742
+  },
+  {
+    "transaction_id": "TXN_0240",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 574210836
+  },
+  {
+    "transaction_id": "TXN_0241",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1350849090
+  },
+  {
+    "transaction_id": "TXN_0242",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 753330634
+  },
+  {
+    "transaction_id": "TXN_0243",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 193292892
+  },
+  {
+    "transaction_id": "TXN_0244",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1890427820
+  },
+  {
+    "transaction_id": "TXN_0245",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2011501618
+  },
+  {
+    "transaction_id": "TXN_0246",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 146635697
+  },
+  {
+    "transaction_id": "TXN_0247",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1203177513
+  },
+  {
+    "transaction_id": "TXN_0248",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1742604665
+  },
+  {
+    "transaction_id": "TXN_0249",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 85546598
+  },
+  {
+    "transaction_id": "TXN_0250",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 130559720
+  },
+  {
+    "transaction_id": "TXN_0251",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1076049209
+  },
+  {
+    "transaction_id": "TXN_0252",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1081093424
+  },
+  {
+    "transaction_id": "TXN_0253",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 421753991
+  },
+  {
+    "transaction_id": "TXN_0254",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 818747036
+  },
+  {
+    "transaction_id": "TXN_0255",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1543695065
+  },
+  {
+    "transaction_id": "TXN_0256",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2082511452
+  },
+  {
+    "transaction_id": "TXN_0257",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1670903602
+  },
+  {
+    "transaction_id": "TXN_0258",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 561960468
+  },
+  {
+    "transaction_id": "TXN_0259",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2140473107
+  },
+  {
+    "transaction_id": "TXN_0260",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1423518898
+  },
+  {
+    "transaction_id": "TXN_0261",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 969239097
+  },
+  {
+    "transaction_id": "TXN_0262",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 729563830
+  },
+  {
+    "transaction_id": "TXN_0263",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1689071374
+  },
+  {
+    "transaction_id": "TXN_0264",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1991416626
+  },
+  {
+    "transaction_id": "TXN_0265",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 826801385
+  },
+  {
+    "transaction_id": "TXN_0266",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1045234113
+  },
+  {
+    "transaction_id": "TXN_0267",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1402604093
+  },
+  {
+    "transaction_id": "TXN_0268",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1429057622
+  },
+  {
+    "transaction_id": "TXN_0269",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 369856912
+  },
+  {
+    "transaction_id": "TXN_0270",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2138260769
+  },
+  {
+    "transaction_id": "TXN_0271",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1397639995
+  },
+  {
+    "transaction_id": "TXN_0272",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2139988147
+  },
+  {
+    "transaction_id": "TXN_0273",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 425635229
+  },
+  {
+    "transaction_id": "TXN_0274",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 934881914
+  },
+  {
+    "transaction_id": "TXN_0275",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 77477469
+  },
+  {
+    "transaction_id": "TXN_0276",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1559465047
+  },
+  {
+    "transaction_id": "TXN_0277",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 899565292
+  },
+  {
+    "transaction_id": "TXN_0278",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 500274142
+  },
+  {
+    "transaction_id": "TXN_0279",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 444428267
+  },
+  {
+    "transaction_id": "TXN_0280",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1184074079
+  },
+  {
+    "transaction_id": "TXN_0281",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1707476328
+  },
+  {
+    "transaction_id": "TXN_0282",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 460366142
+  },
+  {
+    "transaction_id": "TXN_0283",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1519459074
+  },
+  {
+    "transaction_id": "TXN_0284",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1511023421
+  },
+  {
+    "transaction_id": "TXN_0285",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 575618209
+  },
+  {
+    "transaction_id": "TXN_0286",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1121442984
+  },
+  {
+    "transaction_id": "TXN_0287",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1168704022
+  },
+  {
+    "transaction_id": "TXN_0288",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1573319665
+  },
+  {
+    "transaction_id": "TXN_0289",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1427185872
+  },
+  {
+    "transaction_id": "TXN_0290",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 792027401
+  },
+  {
+    "transaction_id": "TXN_0291",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 204979546
+  },
+  {
+    "transaction_id": "TXN_0292",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 152463255
+  },
+  {
+    "transaction_id": "TXN_0293",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 95327724
+  },
+  {
+    "transaction_id": "TXN_0294",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1860508320
+  },
+  {
+    "transaction_id": "TXN_0295",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 120396028
+  },
+  {
+    "transaction_id": "TXN_0296",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1692865302
+  },
+  {
+    "transaction_id": "TXN_0297",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1963007123
+  },
+  {
+    "transaction_id": "TXN_0298",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1447329757
+  },
+  {
+    "transaction_id": "TXN_0299",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 676086679
+  },
+  {
+    "transaction_id": "TXN_0300",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 168471773
+  },
+  {
+    "transaction_id": "TXN_0301",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 144237916
+  },
+  {
+    "transaction_id": "TXN_0302",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 462466835
+  },
+  {
+    "transaction_id": "TXN_0303",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 837394730
+  },
+  {
+    "transaction_id": "TXN_0304",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1012855105
+  },
+  {
+    "transaction_id": "TXN_0305",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1378188012
+  },
+  {
+    "transaction_id": "TXN_0306",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 338619361
+  },
+  {
+    "transaction_id": "TXN_0307",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 958237074
+  },
+  {
+    "transaction_id": "TXN_0308",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2045712775
+  },
+  {
+    "transaction_id": "TXN_0309",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1426333712
+  },
+  {
+    "transaction_id": "TXN_0310",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1558754645
+  },
+  {
+    "transaction_id": "TXN_0311",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 102053312
+  },
+  {
+    "transaction_id": "TXN_0312",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1958537390
+  },
+  {
+    "transaction_id": "TXN_0313",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 30787041
+  },
+  {
+    "transaction_id": "TXN_0314",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1186487274
+  },
+  {
+    "transaction_id": "TXN_0315",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1606842616
+  },
+  {
+    "transaction_id": "TXN_0316",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 873949820
+  },
+  {
+    "transaction_id": "TXN_0317",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1663479336
+  },
+  {
+    "transaction_id": "TXN_0318",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 604541990
+  },
+  {
+    "transaction_id": "TXN_0319",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 512144814
+  },
+  {
+    "transaction_id": "TXN_0320",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 138510839
+  },
+  {
+    "transaction_id": "TXN_0321",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 637606231
+  },
+  {
+    "transaction_id": "TXN_0322",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1002289552
+  },
+  {
+    "transaction_id": "TXN_0323",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1198339308
+  },
+  {
+    "transaction_id": "TXN_0324",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 17824203
+  },
+  {
+    "transaction_id": "TXN_0325",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 738620129
+  },
+  {
+    "transaction_id": "TXN_0326",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 494263569
+  },
+  {
+    "transaction_id": "TXN_0327",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1563643972
+  },
+  {
+    "transaction_id": "TXN_0328",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1145458407
+  },
+  {
+    "transaction_id": "TXN_0329",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 307892646
+  },
+  {
+    "transaction_id": "TXN_0330",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1185634885
+  },
+  {
+    "transaction_id": "TXN_0331",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 951873810
+  },
+  {
+    "transaction_id": "TXN_0332",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 208111516
+  },
+  {
+    "transaction_id": "TXN_0333",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1024400914
+  },
+  {
+    "transaction_id": "TXN_0334",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1837398345
+  },
+  {
+    "transaction_id": "TXN_0335",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2060780819
+  },
+  {
+    "transaction_id": "TXN_0336",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1394818728
+  },
+  {
+    "transaction_id": "TXN_0337",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2066422756
+  },
+  {
+    "transaction_id": "TXN_0338",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 214934684
+  },
+  {
+    "transaction_id": "TXN_0339",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 77678262
+  },
+  {
+    "transaction_id": "TXN_0340",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 674960175
+  },
+  {
+    "transaction_id": "TXN_0341",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 174937060
+  },
+  {
+    "transaction_id": "TXN_0342",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 397301649
+  },
+  {
+    "transaction_id": "TXN_0343",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 227137434
+  },
+  {
+    "transaction_id": "TXN_0344",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 666775463
+  },
+  {
+    "transaction_id": "TXN_0345",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 83849371
+  },
+  {
+    "transaction_id": "TXN_0346",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 520334627
+  },
+  {
+    "transaction_id": "TXN_0347",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 698423641
+  },
+  {
+    "transaction_id": "TXN_0348",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1965321163
+  },
+  {
+    "transaction_id": "TXN_0349",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 458055105
+  },
+  {
+    "transaction_id": "TXN_0350",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 690862096
+  },
+  {
+    "transaction_id": "TXN_0351",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1148025742
+  },
+  {
+    "transaction_id": "TXN_0352",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 84773574
+  },
+  {
+    "transaction_id": "TXN_0353",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 642494553
+  },
+  {
+    "transaction_id": "TXN_0354",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 803749116
+  },
+  {
+    "transaction_id": "TXN_0355",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1123354358
+  },
+  {
+    "transaction_id": "TXN_0356",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 315767853
+  },
+  {
+    "transaction_id": "TXN_0357",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 191707071
+  },
+  {
+    "transaction_id": "TXN_0358",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1524452396
+  },
+  {
+    "transaction_id": "TXN_0359",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1584203344
+  },
+  {
+    "transaction_id": "TXN_0360",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2095906504
+  },
+  {
+    "transaction_id": "TXN_0361",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 139445514
+  },
+  {
+    "transaction_id": "TXN_0362",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 257659181
+  },
+  {
+    "transaction_id": "TXN_0363",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 556216186
+  },
+  {
+    "transaction_id": "TXN_0364",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 312050824
+  },
+  {
+    "transaction_id": "TXN_0365",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 125477617
+  },
+  {
+    "transaction_id": "TXN_0366",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1248183740
+  },
+  {
+    "transaction_id": "TXN_0367",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2021682579
+  },
+  {
+    "transaction_id": "TXN_0368",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1315660281
+  },
+  {
+    "transaction_id": "TXN_0369",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 983690509
+  },
+  {
+    "transaction_id": "TXN_0370",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1990565360
+  },
+  {
+    "transaction_id": "TXN_0371",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 719095554
+  },
+  {
+    "transaction_id": "TXN_0372",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2116746601
+  },
+  {
+    "transaction_id": "TXN_0373",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1726648337
+  },
+  {
+    "transaction_id": "TXN_0374",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1410138400
+  },
+  {
+    "transaction_id": "TXN_0375",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2043323542
+  },
+  {
+    "transaction_id": "TXN_0376",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1679665968
+  },
+  {
+    "transaction_id": "TXN_0377",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1784532937
+  },
+  {
+    "transaction_id": "TXN_0378",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 838134290
+  },
+  {
+    "transaction_id": "TXN_0379",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1248739703
+  },
+  {
+    "transaction_id": "TXN_0380",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1790829993
+  },
+  {
+    "transaction_id": "TXN_0381",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 311059804
+  },
+  {
+    "transaction_id": "TXN_0382",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 207989784
+  },
+  {
+    "transaction_id": "TXN_0383",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1697094222
+  },
+  {
+    "transaction_id": "TXN_0384",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 682195580
+  },
+  {
+    "transaction_id": "TXN_0385",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1036347252
+  },
+  {
+    "transaction_id": "TXN_0386",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1997285077
+  },
+  {
+    "transaction_id": "TXN_0387",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 54942171
+  },
+  {
+    "transaction_id": "TXN_0388",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 249034571
+  },
+  {
+    "transaction_id": "TXN_0389",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 449887757
+  },
+  {
+    "transaction_id": "TXN_0390",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 788123443
+  },
+  {
+    "transaction_id": "TXN_0391",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1183215979
+  },
+  {
+    "transaction_id": "TXN_0392",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 61891746
+  },
+  {
+    "transaction_id": "TXN_0393",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1770999587
+  },
+  {
+    "transaction_id": "TXN_0394",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 63236937
+  },
+  {
+    "transaction_id": "TXN_0395",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 736685102
+  },
+  {
+    "transaction_id": "TXN_0396",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 626114664
+  },
+  {
+    "transaction_id": "TXN_0397",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 199369759
+  },
+  {
+    "transaction_id": "TXN_0398",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2098658947
+  },
+  {
+    "transaction_id": "TXN_0399",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 771291332
+  },
+  {
+    "transaction_id": "TXN_0400",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1176997299
+  },
+  {
+    "transaction_id": "TXN_0401",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1117961074
+  },
+  {
+    "transaction_id": "TXN_0402",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 666715608
+  },
+  {
+    "transaction_id": "TXN_0403",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1412951174
+  },
+  {
+    "transaction_id": "TXN_0404",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 786504493
+  },
+  {
+    "transaction_id": "TXN_0405",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1185690537
+  },
+  {
+    "transaction_id": "TXN_0406",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1846684760
+  },
+  {
+    "transaction_id": "TXN_0407",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1458771974
+  },
+  {
+    "transaction_id": "TXN_0408",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 711687988
+  },
+  {
+    "transaction_id": "TXN_0409",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 604477194
+  },
+  {
+    "transaction_id": "TXN_0410",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 78587626
+  },
+  {
+    "transaction_id": "TXN_0411",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 408627199
+  },
+  {
+    "transaction_id": "TXN_0412",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 280604066
+  },
+  {
+    "transaction_id": "TXN_0413",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1151737758
+  },
+  {
+    "transaction_id": "TXN_0414",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1607280848
+  },
+  {
+    "transaction_id": "TXN_0415",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 702024336
+  },
+  {
+    "transaction_id": "TXN_0416",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 957724816
+  },
+  {
+    "transaction_id": "TXN_0417",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 439719769
+  },
+  {
+    "transaction_id": "TXN_0418",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1491400770
+  },
+  {
+    "transaction_id": "TXN_0419",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1087501883
+  },
+  {
+    "transaction_id": "TXN_0420",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 188021131
+  },
+  {
+    "transaction_id": "TXN_0421",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1323758172
+  },
+  {
+    "transaction_id": "TXN_0422",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 285973794
+  },
+  {
+    "transaction_id": "TXN_0423",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1970289997
+  },
+  {
+    "transaction_id": "TXN_0424",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1367616392
+  },
+  {
+    "transaction_id": "TXN_0425",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 89576181
+  },
+  {
+    "transaction_id": "TXN_0426",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1492846907
+  },
+  {
+    "transaction_id": "TXN_0427",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1724401641
+  },
+  {
+    "transaction_id": "TXN_0428",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 505558380
+  },
+  {
+    "transaction_id": "TXN_0429",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 991852896
+  },
+  {
+    "transaction_id": "TXN_0430",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 248383684
+  },
+  {
+    "transaction_id": "TXN_0431",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1244877462
+  },
+  {
+    "transaction_id": "TXN_0432",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 480155937
+  },
+  {
+    "transaction_id": "TXN_0433",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 62945824
+  },
+  {
+    "transaction_id": "TXN_0434",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 773226508
+  },
+  {
+    "transaction_id": "TXN_0435",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 588926501
+  },
+  {
+    "transaction_id": "TXN_0436",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1672247301
+  },
+  {
+    "transaction_id": "TXN_0437",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1286684799
+  },
+  {
+    "transaction_id": "TXN_0438",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1274020741
+  },
+  {
+    "transaction_id": "TXN_0439",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2052716275
+  },
+  {
+    "transaction_id": "TXN_0440",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1723217609
+  },
+  {
+    "transaction_id": "TXN_0441",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 17382868
+  },
+  {
+    "transaction_id": "TXN_0442",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1453691587
+  },
+  {
+    "transaction_id": "TXN_0443",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 636038614
+  },
+  {
+    "transaction_id": "TXN_0444",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 794804070
+  },
+  {
+    "transaction_id": "TXN_0445",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 796776739
+  },
+  {
+    "transaction_id": "TXN_0446",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1268198031
+  },
+  {
+    "transaction_id": "TXN_0447",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1663559341
+  },
+  {
+    "transaction_id": "TXN_0448",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 88858613
+  },
+  {
+    "transaction_id": "TXN_0449",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 217001967
+  },
+  {
+    "transaction_id": "TXN_0450",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1076272312
+  },
+  {
+    "transaction_id": "TXN_0451",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1973684454
+  },
+  {
+    "transaction_id": "TXN_0452",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1514815567
+  },
+  {
+    "transaction_id": "TXN_0453",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1945437274
+  },
+  {
+    "transaction_id": "TXN_0454",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 457467881
+  },
+  {
+    "transaction_id": "TXN_0455",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 2125258048
+  },
+  {
+    "transaction_id": "TXN_0456",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1556981140
+  },
+  {
+    "transaction_id": "TXN_0457",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 728643233
+  },
+  {
+    "transaction_id": "TXN_0458",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 644694958
+  },
+  {
+    "transaction_id": "TXN_0459",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1413376508
+  },
+  {
+    "transaction_id": "TXN_0460",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 286221756
+  },
+  {
+    "transaction_id": "TXN_0461",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1626467889
+  },
+  {
+    "transaction_id": "TXN_0462",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 484334932
+  },
+  {
+    "transaction_id": "TXN_0463",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 476532066
+  },
+  {
+    "transaction_id": "TXN_0464",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 934761982
+  },
+  {
+    "transaction_id": "TXN_0465",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1422131503
+  },
+  {
+    "transaction_id": "TXN_0466",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 383557310
+  },
+  {
+    "transaction_id": "TXN_0467",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 819646545
+  },
+  {
+    "transaction_id": "TXN_0468",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 717714108
+  },
+  {
+    "transaction_id": "TXN_0469",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1134378940
+  },
+  {
+    "transaction_id": "TXN_0470",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 377533896
+  },
+  {
+    "transaction_id": "TXN_0471",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 650312366
+  },
+  {
+    "transaction_id": "TXN_0472",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1376382915
+  },
+  {
+    "transaction_id": "TXN_0473",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1646568132
+  },
+  {
+    "transaction_id": "TXN_0474",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 587835574
+  },
+  {
+    "transaction_id": "TXN_0475",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 757581925
+  },
+  {
+    "transaction_id": "TXN_0476",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1571625095
+  },
+  {
+    "transaction_id": "TXN_0477",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 601131657
+  },
+  {
+    "transaction_id": "TXN_0478",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1985822683
+  },
+  {
+    "transaction_id": "TXN_0479",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 965896517
+  },
+  {
+    "transaction_id": "TXN_0480",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 231720139
+  },
+  {
+    "transaction_id": "TXN_0481",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1703607555
+  },
+  {
+    "transaction_id": "TXN_0482",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 221006352
+  },
+  {
+    "transaction_id": "TXN_0483",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 187753855
+  },
+  {
+    "transaction_id": "TXN_0484",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1893334695
+  },
+  {
+    "transaction_id": "TXN_0485",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 581831801
+  },
+  {
+    "transaction_id": "TXN_0486",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1975473599
+  },
+  {
+    "transaction_id": "TXN_0487",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1649815619
+  },
+  {
+    "transaction_id": "TXN_0488",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1016055500
+  },
+  {
+    "transaction_id": "TXN_0489",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 109122840
+  },
+  {
+    "transaction_id": "TXN_0490",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 704508008
+  },
+  {
+    "transaction_id": "TXN_0491",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1480877287
+  },
+  {
+    "transaction_id": "TXN_0492",
+    "hidden_persona": "SALARY_CYCLE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.1,
+      "RETRY_LATER": 0.85,
+      "SEND_REMINDER": 0.35,
+      "UPDATE_PAYMENT_METHOD": 0.05,
+      "ESCALATE_TO_HUMAN": 0.25,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 550222203
+  },
+  {
+    "transaction_id": "TXN_0493",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1734898921
+  },
+  {
+    "transaction_id": "TXN_0494",
+    "hidden_persona": "PAYMENT_METHOD_ISSUE",
+    "optimal_action": "UPDATE_PAYMENT_METHOD",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.15,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.9,
+      "ESCALATE_TO_HUMAN": 0.35,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1377840734
+  },
+  {
+    "transaction_id": "TXN_0495",
+    "hidden_persona": "HIGH_VALUE_SENSITIVE",
+    "optimal_action": "ESCALATE_TO_HUMAN",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.4,
+      "UPDATE_PAYMENT_METHOD": 0.3,
+      "ESCALATE_TO_HUMAN": 0.9,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1894200123
+  },
+  {
+    "transaction_id": "TXN_0496",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1339618287
+  },
+  {
+    "transaction_id": "TXN_0497",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 719183038
+  },
+  {
+    "transaction_id": "TXN_0498",
+    "hidden_persona": "RETRY_RESPONSIVE",
+    "optimal_action": "RETRY_LATER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.65,
+      "RETRY_LATER": 0.92,
+      "SEND_REMINDER": 0.25,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 497011923
+  },
+  {
+    "transaction_id": "TXN_0499",
+    "hidden_persona": "REMINDER_RESPONSIVE",
+    "optimal_action": "SEND_REMINDER",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.2,
+      "RETRY_LATER": 0.35,
+      "SEND_REMINDER": 0.88,
+      "UPDATE_PAYMENT_METHOD": 0.1,
+      "ESCALATE_TO_HUMAN": 0.3,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1431527000
+  },
+  {
+    "transaction_id": "TXN_0500",
+    "hidden_persona": "LOW_RECOVERY",
+    "optimal_action": "STOP_RECOVERY",
+    "action_success_probabilities": {
+      "RETRY_NOW": 0.05,
+      "RETRY_LATER": 0.08,
+      "SEND_REMINDER": 0.1,
+      "UPDATE_PAYMENT_METHOD": 0.08,
+      "ESCALATE_TO_HUMAN": 0.12,
+      "STOP_RECOVERY": 0.0
+    },
+    "simulation_seed": 1283348710
+  }
+]

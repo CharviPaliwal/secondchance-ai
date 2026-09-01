@@ -1,0 +1,5002 @@
+[
+  {
+    "customer_id": "CUST_0001",
+    "tenure_days": 53,
+    "total_transactions": 37,
+    "successful_transactions": 33,
+    "payment_success_rate": 0.9,
+    "average_transaction_amount": 5685.04,
+    "previous_recovery_success_rate": 0.88,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0002",
+    "tenure_days": 396,
+    "total_transactions": 74,
+    "successful_transactions": 53,
+    "payment_success_rate": 0.72,
+    "average_transaction_amount": 7146.39,
+    "previous_recovery_success_rate": 0.57,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0003",
+    "tenure_days": 1422,
+    "total_transactions": 45,
+    "successful_transactions": 42,
+    "payment_success_rate": 0.93,
+    "average_transaction_amount": 10599.8,
+    "previous_recovery_success_rate": 0.8,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0004",
+    "tenure_days": 1623,
+    "total_transactions": 14,
+    "successful_transactions": 7,
+    "payment_success_rate": 0.52,
+    "average_transaction_amount": 5353.35,
+    "previous_recovery_success_rate": 0.21,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0005",
+    "tenure_days": 1529,
+    "total_transactions": 88,
+    "successful_transactions": 78,
+    "payment_success_rate": 0.89,
+    "average_transaction_amount": 7819.16,
+    "previous_recovery_success_rate": 0.86,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0006",
+    "tenure_days": 1336,
+    "total_transactions": 55,
+    "successful_transactions": 48,
+    "payment_success_rate": 0.87,
+    "average_transaction_amount": 6514.5,
+    "previous_recovery_success_rate": 0.9,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0007",
+    "tenure_days": 1115,
+    "total_transactions": 40,
+    "successful_transactions": 33,
+    "payment_success_rate": 0.83,
+    "average_transaction_amount": 6881.96,
+    "previous_recovery_success_rate": 0.45,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0008",
+    "tenure_days": 223,
+    "total_transactions": 8,
+    "successful_transactions": 8,
+    "payment_success_rate": 0.94,
+    "average_transaction_amount": 3839.08,
+    "previous_recovery_success_rate": 0.8,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0009",
+    "tenure_days": 110,
+    "total_transactions": 38,
+    "successful_transactions": 29,
+    "payment_success_rate": 0.77,
+    "average_transaction_amount": 1399.38,
+    "previous_recovery_success_rate": 0.39,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0010",
+    "tenure_days": 324,
+    "total_transactions": 113,
+    "successful_transactions": 97,
+    "payment_success_rate": 0.86,
+    "average_transaction_amount": 8598.26,
+    "previous_recovery_success_rate": 0.93,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0011",
+    "tenure_days": 756,
+    "total_transactions": 34,
+    "successful_transactions": 25,
+    "payment_success_rate": 0.73,
+    "average_transaction_amount": 9334.79,
+    "previous_recovery_success_rate": 0.26,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0012",
+    "tenure_days": 991,
+    "total_transactions": 18,
+    "successful_transactions": 11,
+    "payment_success_rate": 0.62,
+    "average_transaction_amount": 7748.72,
+    "previous_recovery_success_rate": 0.51,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0013",
+    "tenure_days": 455,
+    "total_transactions": 100,
+    "successful_transactions": 88,
+    "payment_success_rate": 0.88,
+    "average_transaction_amount": 3774.27,
+    "previous_recovery_success_rate": 0.84,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0014",
+    "tenure_days": 769,
+    "total_transactions": 112,
+    "successful_transactions": 78,
+    "payment_success_rate": 0.7,
+    "average_transaction_amount": 1900.71,
+    "previous_recovery_success_rate": 0.41,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0015",
+    "tenure_days": 748,
+    "total_transactions": 10,
+    "successful_transactions": 8,
+    "payment_success_rate": 0.84,
+    "average_transaction_amount": 446.68,
+    "previous_recovery_success_rate": 0.56,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0016",
+    "tenure_days": 736,
+    "total_transactions": 42,
+    "successful_transactions": 10,
+    "payment_success_rate": 0.25,
+    "average_transaction_amount": 5648.31,
+    "previous_recovery_success_rate": 0.15,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0017",
+    "tenure_days": 1472,
+    "total_transactions": 75,
+    "successful_transactions": 64,
+    "payment_success_rate": 0.86,
+    "average_transaction_amount": 9195.56,
+    "previous_recovery_success_rate": 0.75,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0018",
+    "tenure_days": 1796,
+    "total_transactions": 59,
+    "successful_transactions": 44,
+    "payment_success_rate": 0.75,
+    "average_transaction_amount": 4157.3,
+    "previous_recovery_success_rate": 0.47,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0019",
+    "tenure_days": 468,
+    "total_transactions": 46,
+    "successful_transactions": 37,
+    "payment_success_rate": 0.8,
+    "average_transaction_amount": 1705.83,
+    "previous_recovery_success_rate": 0.45,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0020",
+    "tenure_days": 1796,
+    "total_transactions": 12,
+    "successful_transactions": 10,
+    "payment_success_rate": 0.85,
+    "average_transaction_amount": 22039.59,
+    "previous_recovery_success_rate": 0.67,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0021",
+    "tenure_days": 81,
+    "total_transactions": 10,
+    "successful_transactions": 7,
+    "payment_success_rate": 0.73,
+    "average_transaction_amount": 2177.09,
+    "previous_recovery_success_rate": 0.7,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0022",
+    "tenure_days": 1132,
+    "total_transactions": 29,
+    "successful_transactions": 6,
+    "payment_success_rate": 0.21,
+    "average_transaction_amount": 469.61,
+    "previous_recovery_success_rate": 0.25,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0023",
+    "tenure_days": 185,
+    "total_transactions": 80,
+    "successful_transactions": 55,
+    "payment_success_rate": 0.69,
+    "average_transaction_amount": 6782.62,
+    "previous_recovery_success_rate": 0.27,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0024",
+    "tenure_days": 943,
+    "total_transactions": 85,
+    "successful_transactions": 75,
+    "payment_success_rate": 0.88,
+    "average_transaction_amount": 6879.91,
+    "previous_recovery_success_rate": 0.73,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0025",
+    "tenure_days": 1080,
+    "total_transactions": 81,
+    "successful_transactions": 66,
+    "payment_success_rate": 0.82,
+    "average_transaction_amount": 4768.5,
+    "previous_recovery_success_rate": 0.59,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0026",
+    "tenure_days": 1514,
+    "total_transactions": 53,
+    "successful_transactions": 49,
+    "payment_success_rate": 0.93,
+    "average_transaction_amount": 6396.79,
+    "previous_recovery_success_rate": 0.84,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0027",
+    "tenure_days": 431,
+    "total_transactions": 34,
+    "successful_transactions": 23,
+    "payment_success_rate": 0.69,
+    "average_transaction_amount": 4247.19,
+    "previous_recovery_success_rate": 0.72,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0028",
+    "tenure_days": 1228,
+    "total_transactions": 79,
+    "successful_transactions": 55,
+    "payment_success_rate": 0.69,
+    "average_transaction_amount": 6568.23,
+    "previous_recovery_success_rate": 0.53,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0029",
+    "tenure_days": 676,
+    "total_transactions": 15,
+    "successful_transactions": 12,
+    "payment_success_rate": 0.78,
+    "average_transaction_amount": 2515.68,
+    "previous_recovery_success_rate": 0.51,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0030",
+    "tenure_days": 1411,
+    "total_transactions": 67,
+    "successful_transactions": 49,
+    "payment_success_rate": 0.73,
+    "average_transaction_amount": 6256.11,
+    "previous_recovery_success_rate": 0.57,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0031",
+    "tenure_days": 1748,
+    "total_transactions": 33,
+    "successful_transactions": 22,
+    "payment_success_rate": 0.68,
+    "average_transaction_amount": 7415.35,
+    "previous_recovery_success_rate": 0.26,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0032",
+    "tenure_days": 1431,
+    "total_transactions": 73,
+    "successful_transactions": 57,
+    "payment_success_rate": 0.78,
+    "average_transaction_amount": 6634.42,
+    "previous_recovery_success_rate": 0.25,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0033",
+    "tenure_days": 769,
+    "total_transactions": 69,
+    "successful_transactions": 63,
+    "payment_success_rate": 0.91,
+    "average_transaction_amount": 5382.8,
+    "previous_recovery_success_rate": 0.76,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0034",
+    "tenure_days": 331,
+    "total_transactions": 16,
+    "successful_transactions": 12,
+    "payment_success_rate": 0.78,
+    "average_transaction_amount": 860.63,
+    "previous_recovery_success_rate": 0.69,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0035",
+    "tenure_days": 1668,
+    "total_transactions": 87,
+    "successful_transactions": 76,
+    "payment_success_rate": 0.87,
+    "average_transaction_amount": 9778.09,
+    "previous_recovery_success_rate": 0.93,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0036",
+    "tenure_days": 88,
+    "total_transactions": 61,
+    "successful_transactions": 21,
+    "payment_success_rate": 0.34,
+    "average_transaction_amount": 4909.4,
+    "previous_recovery_success_rate": 0.08,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0037",
+    "tenure_days": 1780,
+    "total_transactions": 80,
+    "successful_transactions": 30,
+    "payment_success_rate": 0.37,
+    "average_transaction_amount": 459.8,
+    "previous_recovery_success_rate": 0.16,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0038",
+    "tenure_days": 1735,
+    "total_transactions": 46,
+    "successful_transactions": 25,
+    "payment_success_rate": 0.55,
+    "average_transaction_amount": 1613.8,
+    "previous_recovery_success_rate": 0.43,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0039",
+    "tenure_days": 374,
+    "total_transactions": 72,
+    "successful_transactions": 40,
+    "payment_success_rate": 0.55,
+    "average_transaction_amount": 7837.34,
+    "previous_recovery_success_rate": 0.21,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0040",
+    "tenure_days": 1682,
+    "total_transactions": 51,
+    "successful_transactions": 49,
+    "payment_success_rate": 0.97,
+    "average_transaction_amount": 6752.91,
+    "previous_recovery_success_rate": 0.83,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0041",
+    "tenure_days": 834,
+    "total_transactions": 102,
+    "successful_transactions": 95,
+    "payment_success_rate": 0.93,
+    "average_transaction_amount": 1424.8,
+    "previous_recovery_success_rate": 0.82,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0042",
+    "tenure_days": 885,
+    "total_transactions": 33,
+    "successful_transactions": 28,
+    "payment_success_rate": 0.86,
+    "average_transaction_amount": 7512.04,
+    "previous_recovery_success_rate": 0.72,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0043",
+    "tenure_days": 545,
+    "total_transactions": 106,
+    "successful_transactions": 104,
+    "payment_success_rate": 0.98,
+    "average_transaction_amount": 1687.49,
+    "previous_recovery_success_rate": 0.83,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0044",
+    "tenure_days": 1530,
+    "total_transactions": 56,
+    "successful_transactions": 48,
+    "payment_success_rate": 0.86,
+    "average_transaction_amount": 36701.02,
+    "previous_recovery_success_rate": 0.53,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0045",
+    "tenure_days": 1494,
+    "total_transactions": 13,
+    "successful_transactions": 8,
+    "payment_success_rate": 0.61,
+    "average_transaction_amount": 8924.9,
+    "previous_recovery_success_rate": 0.37,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0046",
+    "tenure_days": 1002,
+    "total_transactions": 96,
+    "successful_transactions": 94,
+    "payment_success_rate": 0.98,
+    "average_transaction_amount": 6368.05,
+    "previous_recovery_success_rate": 0.71,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0047",
+    "tenure_days": 1191,
+    "total_transactions": 65,
+    "successful_transactions": 61,
+    "payment_success_rate": 0.94,
+    "average_transaction_amount": 13048.76,
+    "previous_recovery_success_rate": 0.85,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0048",
+    "tenure_days": 1610,
+    "total_transactions": 38,
+    "successful_transactions": 23,
+    "payment_success_rate": 0.6,
+    "average_transaction_amount": 3256.44,
+    "previous_recovery_success_rate": 0.74,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0049",
+    "tenure_days": 1068,
+    "total_transactions": 76,
+    "successful_transactions": 67,
+    "payment_success_rate": 0.88,
+    "average_transaction_amount": 28173.42,
+    "previous_recovery_success_rate": 0.56,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0050",
+    "tenure_days": 597,
+    "total_transactions": 87,
+    "successful_transactions": 70,
+    "payment_success_rate": 0.8,
+    "average_transaction_amount": 4060.35,
+    "previous_recovery_success_rate": 0.3,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0051",
+    "tenure_days": 274,
+    "total_transactions": 68,
+    "successful_transactions": 22,
+    "payment_success_rate": 0.33,
+    "average_transaction_amount": 4386.64,
+    "previous_recovery_success_rate": 0.12,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0052",
+    "tenure_days": 1242,
+    "total_transactions": 30,
+    "successful_transactions": 9,
+    "payment_success_rate": 0.3,
+    "average_transaction_amount": 6783.57,
+    "previous_recovery_success_rate": 0.11,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0053",
+    "tenure_days": 1788,
+    "total_transactions": 115,
+    "successful_transactions": 89,
+    "payment_success_rate": 0.77,
+    "average_transaction_amount": 7601.01,
+    "previous_recovery_success_rate": 0.55,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0054",
+    "tenure_days": 1690,
+    "total_transactions": 80,
+    "successful_transactions": 63,
+    "payment_success_rate": 0.79,
+    "average_transaction_amount": 5551.52,
+    "previous_recovery_success_rate": 0.28,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0055",
+    "tenure_days": 419,
+    "total_transactions": 110,
+    "successful_transactions": 84,
+    "payment_success_rate": 0.76,
+    "average_transaction_amount": 5490.56,
+    "previous_recovery_success_rate": 0.48,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0056",
+    "tenure_days": 366,
+    "total_transactions": 65,
+    "successful_transactions": 51,
+    "payment_success_rate": 0.79,
+    "average_transaction_amount": 11748.07,
+    "previous_recovery_success_rate": 0.64,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0057",
+    "tenure_days": 1289,
+    "total_transactions": 13,
+    "successful_transactions": 11,
+    "payment_success_rate": 0.87,
+    "average_transaction_amount": 3626.06,
+    "previous_recovery_success_rate": 0.68,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0058",
+    "tenure_days": 317,
+    "total_transactions": 15,
+    "successful_transactions": 7,
+    "payment_success_rate": 0.49,
+    "average_transaction_amount": 4181.12,
+    "previous_recovery_success_rate": 0.12,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0059",
+    "tenure_days": 91,
+    "total_transactions": 96,
+    "successful_transactions": 89,
+    "payment_success_rate": 0.93,
+    "average_transaction_amount": 26739.56,
+    "previous_recovery_success_rate": 0.32,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0060",
+    "tenure_days": 1815,
+    "total_transactions": 28,
+    "successful_transactions": 24,
+    "payment_success_rate": 0.86,
+    "average_transaction_amount": 6892.2,
+    "previous_recovery_success_rate": 0.92,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0061",
+    "tenure_days": 1798,
+    "total_transactions": 40,
+    "successful_transactions": 35,
+    "payment_success_rate": 0.87,
+    "average_transaction_amount": 3871.85,
+    "previous_recovery_success_rate": 0.75,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0062",
+    "tenure_days": 298,
+    "total_transactions": 110,
+    "successful_transactions": 85,
+    "payment_success_rate": 0.77,
+    "average_transaction_amount": 8530.08,
+    "previous_recovery_success_rate": 0.53,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0063",
+    "tenure_days": 1368,
+    "total_transactions": 66,
+    "successful_transactions": 39,
+    "payment_success_rate": 0.59,
+    "average_transaction_amount": 1641.71,
+    "previous_recovery_success_rate": 0.09,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0064",
+    "tenure_days": 1094,
+    "total_transactions": 72,
+    "successful_transactions": 65,
+    "payment_success_rate": 0.9,
+    "average_transaction_amount": 556.37,
+    "previous_recovery_success_rate": 0.84,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0065",
+    "tenure_days": 863,
+    "total_transactions": 103,
+    "successful_transactions": 88,
+    "payment_success_rate": 0.85,
+    "average_transaction_amount": 5258.48,
+    "previous_recovery_success_rate": 0.91,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0066",
+    "tenure_days": 1487,
+    "total_transactions": 27,
+    "successful_transactions": 23,
+    "payment_success_rate": 0.85,
+    "average_transaction_amount": 6973.48,
+    "previous_recovery_success_rate": 0.83,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0067",
+    "tenure_days": 465,
+    "total_transactions": 28,
+    "successful_transactions": 24,
+    "payment_success_rate": 0.85,
+    "average_transaction_amount": 772.34,
+    "previous_recovery_success_rate": 0.94,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0068",
+    "tenure_days": 1252,
+    "total_transactions": 78,
+    "successful_transactions": 52,
+    "payment_success_rate": 0.67,
+    "average_transaction_amount": 1724.85,
+    "previous_recovery_success_rate": 0.66,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0069",
+    "tenure_days": 934,
+    "total_transactions": 98,
+    "successful_transactions": 86,
+    "payment_success_rate": 0.88,
+    "average_transaction_amount": 7643.23,
+    "previous_recovery_success_rate": 0.72,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0070",
+    "tenure_days": 1261,
+    "total_transactions": 32,
+    "successful_transactions": 24,
+    "payment_success_rate": 0.74,
+    "average_transaction_amount": 10855.64,
+    "previous_recovery_success_rate": 0.51,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0071",
+    "tenure_days": 1275,
+    "total_transactions": 77,
+    "successful_transactions": 33,
+    "payment_success_rate": 0.43,
+    "average_transaction_amount": 2510.74,
+    "previous_recovery_success_rate": 0.12,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0072",
+    "tenure_days": 761,
+    "total_transactions": 81,
+    "successful_transactions": 70,
+    "payment_success_rate": 0.87,
+    "average_transaction_amount": 11512.85,
+    "previous_recovery_success_rate": 0.66,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0073",
+    "tenure_days": 436,
+    "total_transactions": 8,
+    "successful_transactions": 8,
+    "payment_success_rate": 0.94,
+    "average_transaction_amount": 1190.01,
+    "previous_recovery_success_rate": 0.94,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0074",
+    "tenure_days": 1383,
+    "total_transactions": 113,
+    "successful_transactions": 38,
+    "payment_success_rate": 0.34,
+    "average_transaction_amount": 1424.65,
+    "previous_recovery_success_rate": 0.04,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0075",
+    "tenure_days": 648,
+    "total_transactions": 96,
+    "successful_transactions": 72,
+    "payment_success_rate": 0.75,
+    "average_transaction_amount": 6813.12,
+    "previous_recovery_success_rate": 0.5,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0076",
+    "tenure_days": 1202,
+    "total_transactions": 116,
+    "successful_transactions": 108,
+    "payment_success_rate": 0.93,
+    "average_transaction_amount": 2054.91,
+    "previous_recovery_success_rate": 0.82,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0077",
+    "tenure_days": 1145,
+    "total_transactions": 74,
+    "successful_transactions": 73,
+    "payment_success_rate": 0.98,
+    "average_transaction_amount": 7654.31,
+    "previous_recovery_success_rate": 0.82,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0078",
+    "tenure_days": 558,
+    "total_transactions": 94,
+    "successful_transactions": 59,
+    "payment_success_rate": 0.63,
+    "average_transaction_amount": 2542.51,
+    "previous_recovery_success_rate": 0.6,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0079",
+    "tenure_days": 1736,
+    "total_transactions": 109,
+    "successful_transactions": 45,
+    "payment_success_rate": 0.41,
+    "average_transaction_amount": 4709.05,
+    "previous_recovery_success_rate": 0.06,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0080",
+    "tenure_days": 1170,
+    "total_transactions": 86,
+    "successful_transactions": 76,
+    "payment_success_rate": 0.88,
+    "average_transaction_amount": 8336.4,
+    "previous_recovery_success_rate": 0.64,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0081",
+    "tenure_days": 1163,
+    "total_transactions": 79,
+    "successful_transactions": 77,
+    "payment_success_rate": 0.97,
+    "average_transaction_amount": 380.31,
+    "previous_recovery_success_rate": 0.91,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0082",
+    "tenure_days": 1539,
+    "total_transactions": 15,
+    "successful_transactions": 12,
+    "payment_success_rate": 0.83,
+    "average_transaction_amount": 7901.71,
+    "previous_recovery_success_rate": 0.63,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0083",
+    "tenure_days": 1058,
+    "total_transactions": 100,
+    "successful_transactions": 78,
+    "payment_success_rate": 0.78,
+    "average_transaction_amount": 4129.2,
+    "previous_recovery_success_rate": 0.47,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0084",
+    "tenure_days": 742,
+    "total_transactions": 112,
+    "successful_transactions": 84,
+    "payment_success_rate": 0.75,
+    "average_transaction_amount": 2038.45,
+    "previous_recovery_success_rate": 0.68,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0085",
+    "tenure_days": 251,
+    "total_transactions": 34,
+    "successful_transactions": 22,
+    "payment_success_rate": 0.65,
+    "average_transaction_amount": 4725.2,
+    "previous_recovery_success_rate": 0.4,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0086",
+    "tenure_days": 472,
+    "total_transactions": 11,
+    "successful_transactions": 8,
+    "payment_success_rate": 0.77,
+    "average_transaction_amount": 6547.75,
+    "previous_recovery_success_rate": 0.49,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0087",
+    "tenure_days": 712,
+    "total_transactions": 81,
+    "successful_transactions": 70,
+    "payment_success_rate": 0.86,
+    "average_transaction_amount": 881.04,
+    "previous_recovery_success_rate": 0.71,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0088",
+    "tenure_days": 400,
+    "total_transactions": 80,
+    "successful_transactions": 70,
+    "payment_success_rate": 0.88,
+    "average_transaction_amount": 1783.93,
+    "previous_recovery_success_rate": 0.82,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0089",
+    "tenure_days": 553,
+    "total_transactions": 37,
+    "successful_transactions": 30,
+    "payment_success_rate": 0.81,
+    "average_transaction_amount": 30564.26,
+    "previous_recovery_success_rate": 0.46,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0090",
+    "tenure_days": 48,
+    "total_transactions": 41,
+    "successful_transactions": 40,
+    "payment_success_rate": 0.97,
+    "average_transaction_amount": 1131.86,
+    "previous_recovery_success_rate": 0.83,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0091",
+    "tenure_days": 486,
+    "total_transactions": 15,
+    "successful_transactions": 4,
+    "payment_success_rate": 0.27,
+    "average_transaction_amount": 3964.18,
+    "previous_recovery_success_rate": 0.21,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0092",
+    "tenure_days": 1581,
+    "total_transactions": 120,
+    "successful_transactions": 114,
+    "payment_success_rate": 0.95,
+    "average_transaction_amount": 7031.46,
+    "previous_recovery_success_rate": 0.77,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0093",
+    "tenure_days": 1322,
+    "total_transactions": 111,
+    "successful_transactions": 97,
+    "payment_success_rate": 0.87,
+    "average_transaction_amount": 6826.78,
+    "previous_recovery_success_rate": 0.75,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0094",
+    "tenure_days": 614,
+    "total_transactions": 48,
+    "successful_transactions": 43,
+    "payment_success_rate": 0.89,
+    "average_transaction_amount": 5111.59,
+    "previous_recovery_success_rate": 0.72,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0095",
+    "tenure_days": 809,
+    "total_transactions": 61,
+    "successful_transactions": 42,
+    "payment_success_rate": 0.69,
+    "average_transaction_amount": 2640.3,
+    "previous_recovery_success_rate": 0.76,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0096",
+    "tenure_days": 248,
+    "total_transactions": 43,
+    "successful_transactions": 35,
+    "payment_success_rate": 0.82,
+    "average_transaction_amount": 8621.84,
+    "previous_recovery_success_rate": 0.59,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0097",
+    "tenure_days": 40,
+    "total_transactions": 65,
+    "successful_transactions": 53,
+    "payment_success_rate": 0.82,
+    "average_transaction_amount": 6061.24,
+    "previous_recovery_success_rate": 0.66,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0098",
+    "tenure_days": 815,
+    "total_transactions": 120,
+    "successful_transactions": 53,
+    "payment_success_rate": 0.44,
+    "average_transaction_amount": 8137.18,
+    "previous_recovery_success_rate": 0.06,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0099",
+    "tenure_days": 1178,
+    "total_transactions": 84,
+    "successful_transactions": 68,
+    "payment_success_rate": 0.81,
+    "average_transaction_amount": 10080.23,
+    "previous_recovery_success_rate": 0.57,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0100",
+    "tenure_days": 336,
+    "total_transactions": 17,
+    "successful_transactions": 10,
+    "payment_success_rate": 0.59,
+    "average_transaction_amount": 8172.96,
+    "previous_recovery_success_rate": 0.25,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0101",
+    "tenure_days": 1240,
+    "total_transactions": 98,
+    "successful_transactions": 71,
+    "payment_success_rate": 0.72,
+    "average_transaction_amount": 5101.47,
+    "previous_recovery_success_rate": 0.5,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0102",
+    "tenure_days": 156,
+    "total_transactions": 102,
+    "successful_transactions": 55,
+    "payment_success_rate": 0.54,
+    "average_transaction_amount": 3461.11,
+    "previous_recovery_success_rate": 0.01,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0103",
+    "tenure_days": 1090,
+    "total_transactions": 17,
+    "successful_transactions": 10,
+    "payment_success_rate": 0.58,
+    "average_transaction_amount": 8024.96,
+    "previous_recovery_success_rate": 0.16,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0104",
+    "tenure_days": 603,
+    "total_transactions": 11,
+    "successful_transactions": 4,
+    "payment_success_rate": 0.33,
+    "average_transaction_amount": 4068.07,
+    "previous_recovery_success_rate": 0.12,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0105",
+    "tenure_days": 1646,
+    "total_transactions": 110,
+    "successful_transactions": 75,
+    "payment_success_rate": 0.68,
+    "average_transaction_amount": 9088.34,
+    "previous_recovery_success_rate": 0.59,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0106",
+    "tenure_days": 798,
+    "total_transactions": 93,
+    "successful_transactions": 58,
+    "payment_success_rate": 0.62,
+    "average_transaction_amount": 11158.82,
+    "previous_recovery_success_rate": 0.37,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0107",
+    "tenure_days": 192,
+    "total_transactions": 53,
+    "successful_transactions": 18,
+    "payment_success_rate": 0.34,
+    "average_transaction_amount": 6000.96,
+    "previous_recovery_success_rate": 0.0,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0108",
+    "tenure_days": 165,
+    "total_transactions": 104,
+    "successful_transactions": 82,
+    "payment_success_rate": 0.79,
+    "average_transaction_amount": 7752.98,
+    "previous_recovery_success_rate": 0.27,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0109",
+    "tenure_days": 1397,
+    "total_transactions": 96,
+    "successful_transactions": 32,
+    "payment_success_rate": 0.33,
+    "average_transaction_amount": 5845.3,
+    "previous_recovery_success_rate": 0.2,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0110",
+    "tenure_days": 1372,
+    "total_transactions": 90,
+    "successful_transactions": 84,
+    "payment_success_rate": 0.93,
+    "average_transaction_amount": 43591.55,
+    "previous_recovery_success_rate": 0.43,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0111",
+    "tenure_days": 1474,
+    "total_transactions": 48,
+    "successful_transactions": 36,
+    "payment_success_rate": 0.75,
+    "average_transaction_amount": 5444.64,
+    "previous_recovery_success_rate": 0.47,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0112",
+    "tenure_days": 360,
+    "total_transactions": 25,
+    "successful_transactions": 23,
+    "payment_success_rate": 0.91,
+    "average_transaction_amount": 8357.61,
+    "previous_recovery_success_rate": 0.38,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0113",
+    "tenure_days": 1565,
+    "total_transactions": 23,
+    "successful_transactions": 6,
+    "payment_success_rate": 0.27,
+    "average_transaction_amount": 3567.86,
+    "previous_recovery_success_rate": 0.17,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0114",
+    "tenure_days": 1502,
+    "total_transactions": 91,
+    "successful_transactions": 41,
+    "payment_success_rate": 0.45,
+    "average_transaction_amount": 8433.47,
+    "previous_recovery_success_rate": 0.06,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0115",
+    "tenure_days": 361,
+    "total_transactions": 106,
+    "successful_transactions": 98,
+    "payment_success_rate": 0.92,
+    "average_transaction_amount": 5947.11,
+    "previous_recovery_success_rate": 0.74,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0116",
+    "tenure_days": 350,
+    "total_transactions": 84,
+    "successful_transactions": 76,
+    "payment_success_rate": 0.91,
+    "average_transaction_amount": 4654.4,
+    "previous_recovery_success_rate": 0.82,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0117",
+    "tenure_days": 311,
+    "total_transactions": 87,
+    "successful_transactions": 78,
+    "payment_success_rate": 0.9,
+    "average_transaction_amount": 7451.79,
+    "previous_recovery_success_rate": 0.81,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0118",
+    "tenure_days": 1726,
+    "total_transactions": 79,
+    "successful_transactions": 69,
+    "payment_success_rate": 0.87,
+    "average_transaction_amount": 2983.87,
+    "previous_recovery_success_rate": 0.71,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0119",
+    "tenure_days": 1661,
+    "total_transactions": 81,
+    "successful_transactions": 66,
+    "payment_success_rate": 0.81,
+    "average_transaction_amount": 1619.79,
+    "previous_recovery_success_rate": 0.57,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0120",
+    "tenure_days": 1793,
+    "total_transactions": 100,
+    "successful_transactions": 89,
+    "payment_success_rate": 0.89,
+    "average_transaction_amount": 8606.74,
+    "previous_recovery_success_rate": 0.32,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0121",
+    "tenure_days": 910,
+    "total_transactions": 27,
+    "successful_transactions": 25,
+    "payment_success_rate": 0.92,
+    "average_transaction_amount": 8202.44,
+    "previous_recovery_success_rate": 0.82,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0122",
+    "tenure_days": 1502,
+    "total_transactions": 107,
+    "successful_transactions": 79,
+    "payment_success_rate": 0.74,
+    "average_transaction_amount": 8156.76,
+    "previous_recovery_success_rate": 0.68,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0123",
+    "tenure_days": 641,
+    "total_transactions": 119,
+    "successful_transactions": 107,
+    "payment_success_rate": 0.9,
+    "average_transaction_amount": 6150.99,
+    "previous_recovery_success_rate": 0.93,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0124",
+    "tenure_days": 110,
+    "total_transactions": 69,
+    "successful_transactions": 57,
+    "payment_success_rate": 0.83,
+    "average_transaction_amount": 19068.53,
+    "previous_recovery_success_rate": 0.43,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0125",
+    "tenure_days": 1196,
+    "total_transactions": 115,
+    "successful_transactions": 105,
+    "payment_success_rate": 0.91,
+    "average_transaction_amount": 24954.74,
+    "previous_recovery_success_rate": 0.7,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0126",
+    "tenure_days": 482,
+    "total_transactions": 72,
+    "successful_transactions": 64,
+    "payment_success_rate": 0.89,
+    "average_transaction_amount": 3618.61,
+    "previous_recovery_success_rate": 0.85,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0127",
+    "tenure_days": 243,
+    "total_transactions": 24,
+    "successful_transactions": 20,
+    "payment_success_rate": 0.83,
+    "average_transaction_amount": 34020.94,
+    "previous_recovery_success_rate": 0.49,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0128",
+    "tenure_days": 328,
+    "total_transactions": 102,
+    "successful_transactions": 86,
+    "payment_success_rate": 0.84,
+    "average_transaction_amount": 4955.08,
+    "previous_recovery_success_rate": 0.52,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0129",
+    "tenure_days": 981,
+    "total_transactions": 13,
+    "successful_transactions": 8,
+    "payment_success_rate": 0.6,
+    "average_transaction_amount": 1921.34,
+    "previous_recovery_success_rate": 0.14,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0130",
+    "tenure_days": 1382,
+    "total_transactions": 80,
+    "successful_transactions": 74,
+    "payment_success_rate": 0.93,
+    "average_transaction_amount": 7991.18,
+    "previous_recovery_success_rate": 0.92,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0131",
+    "tenure_days": 570,
+    "total_transactions": 20,
+    "successful_transactions": 16,
+    "payment_success_rate": 0.81,
+    "average_transaction_amount": 2914.93,
+    "previous_recovery_success_rate": 0.43,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0132",
+    "tenure_days": 685,
+    "total_transactions": 16,
+    "successful_transactions": 3,
+    "payment_success_rate": 0.21,
+    "average_transaction_amount": 9199.64,
+    "previous_recovery_success_rate": 0.12,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0133",
+    "tenure_days": 490,
+    "total_transactions": 41,
+    "successful_transactions": 35,
+    "payment_success_rate": 0.85,
+    "average_transaction_amount": 3569.38,
+    "previous_recovery_success_rate": 0.56,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0134",
+    "tenure_days": 1322,
+    "total_transactions": 85,
+    "successful_transactions": 43,
+    "payment_success_rate": 0.51,
+    "average_transaction_amount": 2266.32,
+    "previous_recovery_success_rate": 0.08,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0135",
+    "tenure_days": 578,
+    "total_transactions": 32,
+    "successful_transactions": 26,
+    "payment_success_rate": 0.81,
+    "average_transaction_amount": 605.43,
+    "previous_recovery_success_rate": 0.71,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0136",
+    "tenure_days": 1553,
+    "total_transactions": 92,
+    "successful_transactions": 84,
+    "payment_success_rate": 0.91,
+    "average_transaction_amount": 2718.28,
+    "previous_recovery_success_rate": 0.87,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0137",
+    "tenure_days": 1634,
+    "total_transactions": 116,
+    "successful_transactions": 75,
+    "payment_success_rate": 0.65,
+    "average_transaction_amount": 1897.77,
+    "previous_recovery_success_rate": 0.32,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0138",
+    "tenure_days": 1351,
+    "total_transactions": 15,
+    "successful_transactions": 14,
+    "payment_success_rate": 0.91,
+    "average_transaction_amount": 4226.03,
+    "previous_recovery_success_rate": 0.84,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0139",
+    "tenure_days": 1260,
+    "total_transactions": 68,
+    "successful_transactions": 63,
+    "payment_success_rate": 0.93,
+    "average_transaction_amount": 2189.55,
+    "previous_recovery_success_rate": 0.76,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0140",
+    "tenure_days": 1074,
+    "total_transactions": 75,
+    "successful_transactions": 72,
+    "payment_success_rate": 0.96,
+    "average_transaction_amount": 8018.19,
+    "previous_recovery_success_rate": 0.74,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0141",
+    "tenure_days": 1252,
+    "total_transactions": 107,
+    "successful_transactions": 67,
+    "payment_success_rate": 0.63,
+    "average_transaction_amount": 4685.52,
+    "previous_recovery_success_rate": 0.21,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0142",
+    "tenure_days": 1186,
+    "total_transactions": 96,
+    "successful_transactions": 84,
+    "payment_success_rate": 0.88,
+    "average_transaction_amount": 28576.34,
+    "previous_recovery_success_rate": 0.49,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0143",
+    "tenure_days": 1775,
+    "total_transactions": 111,
+    "successful_transactions": 93,
+    "payment_success_rate": 0.84,
+    "average_transaction_amount": 8433.59,
+    "previous_recovery_success_rate": 0.4,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0144",
+    "tenure_days": 1662,
+    "total_transactions": 56,
+    "successful_transactions": 54,
+    "payment_success_rate": 0.96,
+    "average_transaction_amount": 5425.09,
+    "previous_recovery_success_rate": 0.89,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0145",
+    "tenure_days": 1422,
+    "total_transactions": 95,
+    "successful_transactions": 86,
+    "payment_success_rate": 0.9,
+    "average_transaction_amount": 28734.94,
+    "previous_recovery_success_rate": 0.47,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0146",
+    "tenure_days": 658,
+    "total_transactions": 74,
+    "successful_transactions": 69,
+    "payment_success_rate": 0.93,
+    "average_transaction_amount": 16104.33,
+    "previous_recovery_success_rate": 0.48,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0147",
+    "tenure_days": 1301,
+    "total_transactions": 42,
+    "successful_transactions": 26,
+    "payment_success_rate": 0.61,
+    "average_transaction_amount": 3133.63,
+    "previous_recovery_success_rate": 0.31,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0148",
+    "tenure_days": 1391,
+    "total_transactions": 93,
+    "successful_transactions": 80,
+    "payment_success_rate": 0.86,
+    "average_transaction_amount": 2079.79,
+    "previous_recovery_success_rate": 0.75,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0149",
+    "tenure_days": 1543,
+    "total_transactions": 97,
+    "successful_transactions": 77,
+    "payment_success_rate": 0.79,
+    "average_transaction_amount": 12450.19,
+    "previous_recovery_success_rate": 0.43,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0150",
+    "tenure_days": 1470,
+    "total_transactions": 55,
+    "successful_transactions": 40,
+    "payment_success_rate": 0.72,
+    "average_transaction_amount": 3268.31,
+    "previous_recovery_success_rate": 0.71,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0151",
+    "tenure_days": 1134,
+    "total_transactions": 120,
+    "successful_transactions": 94,
+    "payment_success_rate": 0.78,
+    "average_transaction_amount": 4655.11,
+    "previous_recovery_success_rate": 0.74,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0152",
+    "tenure_days": 1536,
+    "total_transactions": 89,
+    "successful_transactions": 36,
+    "payment_success_rate": 0.41,
+    "average_transaction_amount": 7402.74,
+    "previous_recovery_success_rate": 0.16,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0153",
+    "tenure_days": 782,
+    "total_transactions": 22,
+    "successful_transactions": 7,
+    "payment_success_rate": 0.31,
+    "average_transaction_amount": 8339.63,
+    "previous_recovery_success_rate": 0.06,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0154",
+    "tenure_days": 357,
+    "total_transactions": 111,
+    "successful_transactions": 78,
+    "payment_success_rate": 0.7,
+    "average_transaction_amount": 3651.7,
+    "previous_recovery_success_rate": 0.53,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0155",
+    "tenure_days": 627,
+    "total_transactions": 66,
+    "successful_transactions": 46,
+    "payment_success_rate": 0.7,
+    "average_transaction_amount": 7398.87,
+    "previous_recovery_success_rate": 0.32,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0156",
+    "tenure_days": 124,
+    "total_transactions": 40,
+    "successful_transactions": 36,
+    "payment_success_rate": 0.89,
+    "average_transaction_amount": 7650.67,
+    "previous_recovery_success_rate": 0.87,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0157",
+    "tenure_days": 795,
+    "total_transactions": 15,
+    "successful_transactions": 9,
+    "payment_success_rate": 0.58,
+    "average_transaction_amount": 3164.24,
+    "previous_recovery_success_rate": 0.38,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0158",
+    "tenure_days": 986,
+    "total_transactions": 33,
+    "successful_transactions": 15,
+    "payment_success_rate": 0.44,
+    "average_transaction_amount": 5907.01,
+    "previous_recovery_success_rate": 0.2,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0159",
+    "tenure_days": 648,
+    "total_transactions": 84,
+    "successful_transactions": 76,
+    "payment_success_rate": 0.91,
+    "average_transaction_amount": 28667.24,
+    "previous_recovery_success_rate": 0.58,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0160",
+    "tenure_days": 555,
+    "total_transactions": 107,
+    "successful_transactions": 91,
+    "payment_success_rate": 0.85,
+    "average_transaction_amount": 3598.71,
+    "previous_recovery_success_rate": 0.87,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0161",
+    "tenure_days": 288,
+    "total_transactions": 57,
+    "successful_transactions": 50,
+    "payment_success_rate": 0.88,
+    "average_transaction_amount": 8468.06,
+    "previous_recovery_success_rate": 0.58,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0162",
+    "tenure_days": 1256,
+    "total_transactions": 26,
+    "successful_transactions": 14,
+    "payment_success_rate": 0.52,
+    "average_transaction_amount": 5671.52,
+    "previous_recovery_success_rate": 0.01,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0163",
+    "tenure_days": 644,
+    "total_transactions": 73,
+    "successful_transactions": 61,
+    "payment_success_rate": 0.84,
+    "average_transaction_amount": 4216.86,
+    "previous_recovery_success_rate": 0.4,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0164",
+    "tenure_days": 380,
+    "total_transactions": 108,
+    "successful_transactions": 78,
+    "payment_success_rate": 0.72,
+    "average_transaction_amount": 2100.96,
+    "previous_recovery_success_rate": 0.74,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0165",
+    "tenure_days": 1759,
+    "total_transactions": 85,
+    "successful_transactions": 78,
+    "payment_success_rate": 0.92,
+    "average_transaction_amount": 56291.86,
+    "previous_recovery_success_rate": 0.34,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0166",
+    "tenure_days": 1341,
+    "total_transactions": 18,
+    "successful_transactions": 11,
+    "payment_success_rate": 0.63,
+    "average_transaction_amount": 8222.44,
+    "previous_recovery_success_rate": 0.63,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0167",
+    "tenure_days": 212,
+    "total_transactions": 107,
+    "successful_transactions": 100,
+    "payment_success_rate": 0.93,
+    "average_transaction_amount": 2834.79,
+    "previous_recovery_success_rate": 0.94,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0168",
+    "tenure_days": 1638,
+    "total_transactions": 99,
+    "successful_transactions": 91,
+    "payment_success_rate": 0.92,
+    "average_transaction_amount": 265.96,
+    "previous_recovery_success_rate": 0.77,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0169",
+    "tenure_days": 855,
+    "total_transactions": 114,
+    "successful_transactions": 98,
+    "payment_success_rate": 0.86,
+    "average_transaction_amount": 4708.6,
+    "previous_recovery_success_rate": 0.89,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0170",
+    "tenure_days": 1411,
+    "total_transactions": 24,
+    "successful_transactions": 23,
+    "payment_success_rate": 0.97,
+    "average_transaction_amount": 6987.82,
+    "previous_recovery_success_rate": 0.89,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0171",
+    "tenure_days": 696,
+    "total_transactions": 52,
+    "successful_transactions": 45,
+    "payment_success_rate": 0.87,
+    "average_transaction_amount": 3570.87,
+    "previous_recovery_success_rate": 0.88,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0172",
+    "tenure_days": 348,
+    "total_transactions": 22,
+    "successful_transactions": 17,
+    "payment_success_rate": 0.76,
+    "average_transaction_amount": 5633.13,
+    "previous_recovery_success_rate": 0.33,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0173",
+    "tenure_days": 364,
+    "total_transactions": 58,
+    "successful_transactions": 38,
+    "payment_success_rate": 0.65,
+    "average_transaction_amount": 1047.99,
+    "previous_recovery_success_rate": 0.57,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0174",
+    "tenure_days": 480,
+    "total_transactions": 101,
+    "successful_transactions": 78,
+    "payment_success_rate": 0.77,
+    "average_transaction_amount": 3199.3,
+    "previous_recovery_success_rate": 0.45,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0175",
+    "tenure_days": 1481,
+    "total_transactions": 30,
+    "successful_transactions": 23,
+    "payment_success_rate": 0.77,
+    "average_transaction_amount": 2853.88,
+    "previous_recovery_success_rate": 0.32,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0176",
+    "tenure_days": 930,
+    "total_transactions": 68,
+    "successful_transactions": 46,
+    "payment_success_rate": 0.67,
+    "average_transaction_amount": 11289.44,
+    "previous_recovery_success_rate": 0.51,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0177",
+    "tenure_days": 774,
+    "total_transactions": 8,
+    "successful_transactions": 4,
+    "payment_success_rate": 0.45,
+    "average_transaction_amount": 12697.71,
+    "previous_recovery_success_rate": 0.23,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0178",
+    "tenure_days": 1266,
+    "total_transactions": 24,
+    "successful_transactions": 20,
+    "payment_success_rate": 0.82,
+    "average_transaction_amount": 27266.76,
+    "previous_recovery_success_rate": 0.44,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0179",
+    "tenure_days": 286,
+    "total_transactions": 67,
+    "successful_transactions": 28,
+    "payment_success_rate": 0.42,
+    "average_transaction_amount": 4685.93,
+    "previous_recovery_success_rate": 0.19,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0180",
+    "tenure_days": 1159,
+    "total_transactions": 51,
+    "successful_transactions": 41,
+    "payment_success_rate": 0.81,
+    "average_transaction_amount": 216.07,
+    "previous_recovery_success_rate": 0.7,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0181",
+    "tenure_days": 184,
+    "total_transactions": 48,
+    "successful_transactions": 47,
+    "payment_success_rate": 0.97,
+    "average_transaction_amount": 3856.94,
+    "previous_recovery_success_rate": 0.94,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0182",
+    "tenure_days": 1427,
+    "total_transactions": 75,
+    "successful_transactions": 45,
+    "payment_success_rate": 0.6,
+    "average_transaction_amount": 8749.09,
+    "previous_recovery_success_rate": 0.23,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0183",
+    "tenure_days": 999,
+    "total_transactions": 53,
+    "successful_transactions": 28,
+    "payment_success_rate": 0.52,
+    "average_transaction_amount": 3714.84,
+    "previous_recovery_success_rate": 0.21,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0184",
+    "tenure_days": 369,
+    "total_transactions": 43,
+    "successful_transactions": 42,
+    "payment_success_rate": 0.97,
+    "average_transaction_amount": 20415.91,
+    "previous_recovery_success_rate": 0.61,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0185",
+    "tenure_days": 176,
+    "total_transactions": 76,
+    "successful_transactions": 65,
+    "payment_success_rate": 0.86,
+    "average_transaction_amount": 6110.68,
+    "previous_recovery_success_rate": 0.55,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0186",
+    "tenure_days": 1466,
+    "total_transactions": 59,
+    "successful_transactions": 42,
+    "payment_success_rate": 0.72,
+    "average_transaction_amount": 6025.92,
+    "previous_recovery_success_rate": 0.56,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0187",
+    "tenure_days": 837,
+    "total_transactions": 104,
+    "successful_transactions": 70,
+    "payment_success_rate": 0.67,
+    "average_transaction_amount": 2538.49,
+    "previous_recovery_success_rate": 0.41,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0188",
+    "tenure_days": 657,
+    "total_transactions": 98,
+    "successful_transactions": 75,
+    "payment_success_rate": 0.77,
+    "average_transaction_amount": 9952.21,
+    "previous_recovery_success_rate": 0.58,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0189",
+    "tenure_days": 1202,
+    "total_transactions": 112,
+    "successful_transactions": 101,
+    "payment_success_rate": 0.9,
+    "average_transaction_amount": 5519.72,
+    "previous_recovery_success_rate": 0.75,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0190",
+    "tenure_days": 1414,
+    "total_transactions": 43,
+    "successful_transactions": 15,
+    "payment_success_rate": 0.36,
+    "average_transaction_amount": 10727.7,
+    "previous_recovery_success_rate": 0.22,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0191",
+    "tenure_days": 1073,
+    "total_transactions": 112,
+    "successful_transactions": 67,
+    "payment_success_rate": 0.6,
+    "average_transaction_amount": 4441.51,
+    "previous_recovery_success_rate": 0.2,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0192",
+    "tenure_days": 765,
+    "total_transactions": 15,
+    "successful_transactions": 10,
+    "payment_success_rate": 0.66,
+    "average_transaction_amount": 9797.21,
+    "previous_recovery_success_rate": 0.72,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0193",
+    "tenure_days": 607,
+    "total_transactions": 34,
+    "successful_transactions": 32,
+    "payment_success_rate": 0.93,
+    "average_transaction_amount": 37602.17,
+    "previous_recovery_success_rate": 0.36,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0194",
+    "tenure_days": 1672,
+    "total_transactions": 49,
+    "successful_transactions": 39,
+    "payment_success_rate": 0.79,
+    "average_transaction_amount": 7492.89,
+    "previous_recovery_success_rate": 0.56,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0195",
+    "tenure_days": 921,
+    "total_transactions": 49,
+    "successful_transactions": 48,
+    "payment_success_rate": 0.98,
+    "average_transaction_amount": 1611.54,
+    "previous_recovery_success_rate": 0.94,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0196",
+    "tenure_days": 316,
+    "total_transactions": 103,
+    "successful_transactions": 96,
+    "payment_success_rate": 0.93,
+    "average_transaction_amount": 3208.4,
+    "previous_recovery_success_rate": 0.93,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0197",
+    "tenure_days": 1803,
+    "total_transactions": 48,
+    "successful_transactions": 41,
+    "payment_success_rate": 0.85,
+    "average_transaction_amount": 5034.45,
+    "previous_recovery_success_rate": 0.7,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0198",
+    "tenure_days": 1596,
+    "total_transactions": 53,
+    "successful_transactions": 43,
+    "payment_success_rate": 0.81,
+    "average_transaction_amount": 7480.3,
+    "previous_recovery_success_rate": 0.49,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0199",
+    "tenure_days": 175,
+    "total_transactions": 42,
+    "successful_transactions": 36,
+    "payment_success_rate": 0.86,
+    "average_transaction_amount": 1824.97,
+    "previous_recovery_success_rate": 0.46,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0200",
+    "tenure_days": 1248,
+    "total_transactions": 22,
+    "successful_transactions": 16,
+    "payment_success_rate": 0.74,
+    "average_transaction_amount": 177.86,
+    "previous_recovery_success_rate": 0.45,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0201",
+    "tenure_days": 273,
+    "total_transactions": 113,
+    "successful_transactions": 95,
+    "payment_success_rate": 0.84,
+    "average_transaction_amount": 4387.28,
+    "previous_recovery_success_rate": 0.64,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0202",
+    "tenure_days": 1374,
+    "total_transactions": 95,
+    "successful_transactions": 85,
+    "payment_success_rate": 0.89,
+    "average_transaction_amount": 35029.19,
+    "previous_recovery_success_rate": 0.39,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0203",
+    "tenure_days": 323,
+    "total_transactions": 8,
+    "successful_transactions": 6,
+    "payment_success_rate": 0.81,
+    "average_transaction_amount": 5373.66,
+    "previous_recovery_success_rate": 0.69,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0204",
+    "tenure_days": 1737,
+    "total_transactions": 112,
+    "successful_transactions": 83,
+    "payment_success_rate": 0.74,
+    "average_transaction_amount": 1896.75,
+    "previous_recovery_success_rate": 0.5,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0205",
+    "tenure_days": 1627,
+    "total_transactions": 92,
+    "successful_transactions": 76,
+    "payment_success_rate": 0.83,
+    "average_transaction_amount": 6940.88,
+    "previous_recovery_success_rate": 0.8,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0206",
+    "tenure_days": 105,
+    "total_transactions": 10,
+    "successful_transactions": 10,
+    "payment_success_rate": 0.95,
+    "average_transaction_amount": 5311.78,
+    "previous_recovery_success_rate": 0.75,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0207",
+    "tenure_days": 172,
+    "total_transactions": 98,
+    "successful_transactions": 23,
+    "payment_success_rate": 0.23,
+    "average_transaction_amount": 4136.53,
+    "previous_recovery_success_rate": 0.2,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0208",
+    "tenure_days": 254,
+    "total_transactions": 25,
+    "successful_transactions": 15,
+    "payment_success_rate": 0.61,
+    "average_transaction_amount": 6613.87,
+    "previous_recovery_success_rate": 0.43,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0209",
+    "tenure_days": 1572,
+    "total_transactions": 75,
+    "successful_transactions": 64,
+    "payment_success_rate": 0.85,
+    "average_transaction_amount": 8980.91,
+    "previous_recovery_success_rate": 0.86,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0210",
+    "tenure_days": 1382,
+    "total_transactions": 81,
+    "successful_transactions": 57,
+    "payment_success_rate": 0.7,
+    "average_transaction_amount": 2207.96,
+    "previous_recovery_success_rate": 0.62,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0211",
+    "tenure_days": 1077,
+    "total_transactions": 31,
+    "successful_transactions": 21,
+    "payment_success_rate": 0.69,
+    "average_transaction_amount": 5816.22,
+    "previous_recovery_success_rate": 0.52,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0212",
+    "tenure_days": 1506,
+    "total_transactions": 70,
+    "successful_transactions": 68,
+    "payment_success_rate": 0.97,
+    "average_transaction_amount": 2032.17,
+    "previous_recovery_success_rate": 0.86,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0213",
+    "tenure_days": 1708,
+    "total_transactions": 107,
+    "successful_transactions": 45,
+    "payment_success_rate": 0.42,
+    "average_transaction_amount": 213.87,
+    "previous_recovery_success_rate": 0.03,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0214",
+    "tenure_days": 696,
+    "total_transactions": 76,
+    "successful_transactions": 65,
+    "payment_success_rate": 0.86,
+    "average_transaction_amount": 12180.55,
+    "previous_recovery_success_rate": 0.78,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0215",
+    "tenure_days": 1063,
+    "total_transactions": 72,
+    "successful_transactions": 22,
+    "payment_success_rate": 0.3,
+    "average_transaction_amount": 9936.61,
+    "previous_recovery_success_rate": 0.16,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0216",
+    "tenure_days": 1167,
+    "total_transactions": 84,
+    "successful_transactions": 57,
+    "payment_success_rate": 0.68,
+    "average_transaction_amount": 5954.32,
+    "previous_recovery_success_rate": 0.29,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0217",
+    "tenure_days": 392,
+    "total_transactions": 110,
+    "successful_transactions": 62,
+    "payment_success_rate": 0.56,
+    "average_transaction_amount": 582.95,
+    "previous_recovery_success_rate": 0.53,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0218",
+    "tenure_days": 758,
+    "total_transactions": 55,
+    "successful_transactions": 23,
+    "payment_success_rate": 0.41,
+    "average_transaction_amount": 6810.47,
+    "previous_recovery_success_rate": 0.15,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0219",
+    "tenure_days": 1540,
+    "total_transactions": 38,
+    "successful_transactions": 31,
+    "payment_success_rate": 0.82,
+    "average_transaction_amount": 519.81,
+    "previous_recovery_success_rate": 0.67,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0220",
+    "tenure_days": 117,
+    "total_transactions": 110,
+    "successful_transactions": 102,
+    "payment_success_rate": 0.93,
+    "average_transaction_amount": 12079.56,
+    "previous_recovery_success_rate": 0.84,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0221",
+    "tenure_days": 1411,
+    "total_transactions": 23,
+    "successful_transactions": 5,
+    "payment_success_rate": 0.23,
+    "average_transaction_amount": 3303.65,
+    "previous_recovery_success_rate": 0.08,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0222",
+    "tenure_days": 1466,
+    "total_transactions": 112,
+    "successful_transactions": 76,
+    "payment_success_rate": 0.68,
+    "average_transaction_amount": 1997.6,
+    "previous_recovery_success_rate": 0.52,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0223",
+    "tenure_days": 615,
+    "total_transactions": 15,
+    "successful_transactions": 13,
+    "payment_success_rate": 0.86,
+    "average_transaction_amount": 3033.52,
+    "previous_recovery_success_rate": 0.92,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0224",
+    "tenure_days": 690,
+    "total_transactions": 9,
+    "successful_transactions": 7,
+    "payment_success_rate": 0.78,
+    "average_transaction_amount": 10131.77,
+    "previous_recovery_success_rate": 0.47,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0225",
+    "tenure_days": 1825,
+    "total_transactions": 76,
+    "successful_transactions": 35,
+    "payment_success_rate": 0.46,
+    "average_transaction_amount": 1981.2,
+    "previous_recovery_success_rate": 0.13,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0226",
+    "tenure_days": 1229,
+    "total_transactions": 85,
+    "successful_transactions": 23,
+    "payment_success_rate": 0.27,
+    "average_transaction_amount": 12473.55,
+    "previous_recovery_success_rate": 0.24,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0227",
+    "tenure_days": 660,
+    "total_transactions": 34,
+    "successful_transactions": 25,
+    "payment_success_rate": 0.73,
+    "average_transaction_amount": 3195.39,
+    "previous_recovery_success_rate": 0.42,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0228",
+    "tenure_days": 1674,
+    "total_transactions": 96,
+    "successful_transactions": 74,
+    "payment_success_rate": 0.77,
+    "average_transaction_amount": 3167.87,
+    "previous_recovery_success_rate": 0.44,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0229",
+    "tenure_days": 1215,
+    "total_transactions": 52,
+    "successful_transactions": 19,
+    "payment_success_rate": 0.36,
+    "average_transaction_amount": 9682.72,
+    "previous_recovery_success_rate": 0.24,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0230",
+    "tenure_days": 1551,
+    "total_transactions": 52,
+    "successful_transactions": 46,
+    "payment_success_rate": 0.89,
+    "average_transaction_amount": 56681.6,
+    "previous_recovery_success_rate": 0.6,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0231",
+    "tenure_days": 471,
+    "total_transactions": 37,
+    "successful_transactions": 24,
+    "payment_success_rate": 0.65,
+    "average_transaction_amount": 9763.86,
+    "previous_recovery_success_rate": 0.24,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0232",
+    "tenure_days": 1394,
+    "total_transactions": 67,
+    "successful_transactions": 52,
+    "payment_success_rate": 0.78,
+    "average_transaction_amount": 5636.98,
+    "previous_recovery_success_rate": 0.6,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0233",
+    "tenure_days": 833,
+    "total_transactions": 44,
+    "successful_transactions": 40,
+    "payment_success_rate": 0.9,
+    "average_transaction_amount": 7806.11,
+    "previous_recovery_success_rate": 0.92,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0234",
+    "tenure_days": 1399,
+    "total_transactions": 24,
+    "successful_transactions": 5,
+    "payment_success_rate": 0.21,
+    "average_transaction_amount": 733.84,
+    "previous_recovery_success_rate": 0.2,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0235",
+    "tenure_days": 1032,
+    "total_transactions": 69,
+    "successful_transactions": 60,
+    "payment_success_rate": 0.87,
+    "average_transaction_amount": 5212.73,
+    "previous_recovery_success_rate": 0.64,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0236",
+    "tenure_days": 436,
+    "total_transactions": 55,
+    "successful_transactions": 47,
+    "payment_success_rate": 0.85,
+    "average_transaction_amount": 7917.15,
+    "previous_recovery_success_rate": 0.63,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0237",
+    "tenure_days": 1143,
+    "total_transactions": 82,
+    "successful_transactions": 77,
+    "payment_success_rate": 0.94,
+    "average_transaction_amount": 49545.67,
+    "previous_recovery_success_rate": 0.69,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0238",
+    "tenure_days": 1542,
+    "total_transactions": 24,
+    "successful_transactions": 12,
+    "payment_success_rate": 0.49,
+    "average_transaction_amount": 1253.24,
+    "previous_recovery_success_rate": 0.11,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0239",
+    "tenure_days": 1798,
+    "total_transactions": 26,
+    "successful_transactions": 17,
+    "payment_success_rate": 0.64,
+    "average_transaction_amount": 3520.64,
+    "previous_recovery_success_rate": 0.28,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0240",
+    "tenure_days": 274,
+    "total_transactions": 67,
+    "successful_transactions": 50,
+    "payment_success_rate": 0.75,
+    "average_transaction_amount": 6985.25,
+    "previous_recovery_success_rate": 0.55,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0241",
+    "tenure_days": 224,
+    "total_transactions": 71,
+    "successful_transactions": 55,
+    "payment_success_rate": 0.77,
+    "average_transaction_amount": 1640.4,
+    "previous_recovery_success_rate": 0.49,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0242",
+    "tenure_days": 807,
+    "total_transactions": 28,
+    "successful_transactions": 24,
+    "payment_success_rate": 0.84,
+    "average_transaction_amount": 504.18,
+    "previous_recovery_success_rate": 0.33,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0243",
+    "tenure_days": 1015,
+    "total_transactions": 52,
+    "successful_transactions": 31,
+    "payment_success_rate": 0.6,
+    "average_transaction_amount": 4807.8,
+    "previous_recovery_success_rate": 0.44,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0244",
+    "tenure_days": 906,
+    "total_transactions": 111,
+    "successful_transactions": 28,
+    "payment_success_rate": 0.25,
+    "average_transaction_amount": 8497.91,
+    "previous_recovery_success_rate": 0.18,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0245",
+    "tenure_days": 1487,
+    "total_transactions": 53,
+    "successful_transactions": 34,
+    "payment_success_rate": 0.64,
+    "average_transaction_amount": 4276.76,
+    "previous_recovery_success_rate": 0.46,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0246",
+    "tenure_days": 1446,
+    "total_transactions": 51,
+    "successful_transactions": 39,
+    "payment_success_rate": 0.77,
+    "average_transaction_amount": 2197.23,
+    "previous_recovery_success_rate": 0.56,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0247",
+    "tenure_days": 792,
+    "total_transactions": 41,
+    "successful_transactions": 25,
+    "payment_success_rate": 0.6,
+    "average_transaction_amount": 7968.21,
+    "previous_recovery_success_rate": 0.59,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0248",
+    "tenure_days": 1374,
+    "total_transactions": 26,
+    "successful_transactions": 25,
+    "payment_success_rate": 0.95,
+    "average_transaction_amount": 8257.28,
+    "previous_recovery_success_rate": 0.71,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0249",
+    "tenure_days": 757,
+    "total_transactions": 106,
+    "successful_transactions": 98,
+    "payment_success_rate": 0.92,
+    "average_transaction_amount": 10948.81,
+    "previous_recovery_success_rate": 0.76,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0250",
+    "tenure_days": 1526,
+    "total_transactions": 55,
+    "successful_transactions": 54,
+    "payment_success_rate": 0.98,
+    "average_transaction_amount": 2586.94,
+    "previous_recovery_success_rate": 0.73,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0251",
+    "tenure_days": 388,
+    "total_transactions": 10,
+    "successful_transactions": 7,
+    "payment_success_rate": 0.69,
+    "average_transaction_amount": 4565.51,
+    "previous_recovery_success_rate": 0.55,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0252",
+    "tenure_days": 1608,
+    "total_transactions": 16,
+    "successful_transactions": 9,
+    "payment_success_rate": 0.57,
+    "average_transaction_amount": 4831.93,
+    "previous_recovery_success_rate": 0.02,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0253",
+    "tenure_days": 1535,
+    "total_transactions": 111,
+    "successful_transactions": 97,
+    "payment_success_rate": 0.87,
+    "average_transaction_amount": 5676.15,
+    "previous_recovery_success_rate": 0.64,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0254",
+    "tenure_days": 1406,
+    "total_transactions": 37,
+    "successful_transactions": 24,
+    "payment_success_rate": 0.66,
+    "average_transaction_amount": 7558.69,
+    "previous_recovery_success_rate": 0.47,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0255",
+    "tenure_days": 77,
+    "total_transactions": 60,
+    "successful_transactions": 17,
+    "payment_success_rate": 0.28,
+    "average_transaction_amount": 771.38,
+    "previous_recovery_success_rate": 0.06,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0256",
+    "tenure_days": 130,
+    "total_transactions": 26,
+    "successful_transactions": 24,
+    "payment_success_rate": 0.91,
+    "average_transaction_amount": 13568.84,
+    "previous_recovery_success_rate": 0.45,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0257",
+    "tenure_days": 373,
+    "total_transactions": 22,
+    "successful_transactions": 15,
+    "payment_success_rate": 0.69,
+    "average_transaction_amount": 6055.51,
+    "previous_recovery_success_rate": 0.59,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0258",
+    "tenure_days": 1341,
+    "total_transactions": 83,
+    "successful_transactions": 41,
+    "payment_success_rate": 0.49,
+    "average_transaction_amount": 3503.96,
+    "previous_recovery_success_rate": 0.22,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0259",
+    "tenure_days": 373,
+    "total_transactions": 59,
+    "successful_transactions": 50,
+    "payment_success_rate": 0.85,
+    "average_transaction_amount": 804.82,
+    "previous_recovery_success_rate": 0.24,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0260",
+    "tenure_days": 983,
+    "total_transactions": 115,
+    "successful_transactions": 93,
+    "payment_success_rate": 0.81,
+    "average_transaction_amount": 10500.77,
+    "previous_recovery_success_rate": 0.75,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0261",
+    "tenure_days": 915,
+    "total_transactions": 28,
+    "successful_transactions": 21,
+    "payment_success_rate": 0.74,
+    "average_transaction_amount": 4731.91,
+    "previous_recovery_success_rate": 0.64,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0262",
+    "tenure_days": 557,
+    "total_transactions": 87,
+    "successful_transactions": 28,
+    "payment_success_rate": 0.32,
+    "average_transaction_amount": 3483.11,
+    "previous_recovery_success_rate": 0.17,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0263",
+    "tenure_days": 713,
+    "total_transactions": 94,
+    "successful_transactions": 86,
+    "payment_success_rate": 0.91,
+    "average_transaction_amount": 6846.62,
+    "previous_recovery_success_rate": 0.83,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0264",
+    "tenure_days": 39,
+    "total_transactions": 19,
+    "successful_transactions": 17,
+    "payment_success_rate": 0.89,
+    "average_transaction_amount": 2749.1,
+    "previous_recovery_success_rate": 0.78,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0265",
+    "tenure_days": 192,
+    "total_transactions": 96,
+    "successful_transactions": 73,
+    "payment_success_rate": 0.76,
+    "average_transaction_amount": 2889.97,
+    "previous_recovery_success_rate": 0.63,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0266",
+    "tenure_days": 1772,
+    "total_transactions": 76,
+    "successful_transactions": 66,
+    "payment_success_rate": 0.87,
+    "average_transaction_amount": 7810.25,
+    "previous_recovery_success_rate": 0.48,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0267",
+    "tenure_days": 1323,
+    "total_transactions": 54,
+    "successful_transactions": 44,
+    "payment_success_rate": 0.81,
+    "average_transaction_amount": 2432.23,
+    "previous_recovery_success_rate": 0.48,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0268",
+    "tenure_days": 826,
+    "total_transactions": 104,
+    "successful_transactions": 79,
+    "payment_success_rate": 0.76,
+    "average_transaction_amount": 5121.24,
+    "previous_recovery_success_rate": 0.43,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0269",
+    "tenure_days": 840,
+    "total_transactions": 64,
+    "successful_transactions": 53,
+    "payment_success_rate": 0.83,
+    "average_transaction_amount": 5052.57,
+    "previous_recovery_success_rate": 0.36,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0270",
+    "tenure_days": 1004,
+    "total_transactions": 40,
+    "successful_transactions": 26,
+    "payment_success_rate": 0.65,
+    "average_transaction_amount": 9501.54,
+    "previous_recovery_success_rate": 0.7,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0271",
+    "tenure_days": 505,
+    "total_transactions": 120,
+    "successful_transactions": 38,
+    "payment_success_rate": 0.32,
+    "average_transaction_amount": 3433.79,
+    "previous_recovery_success_rate": 0.16,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0272",
+    "tenure_days": 1316,
+    "total_transactions": 72,
+    "successful_transactions": 35,
+    "payment_success_rate": 0.49,
+    "average_transaction_amount": 1891.35,
+    "previous_recovery_success_rate": 0.05,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0273",
+    "tenure_days": 1628,
+    "total_transactions": 86,
+    "successful_transactions": 83,
+    "payment_success_rate": 0.97,
+    "average_transaction_amount": 2027.79,
+    "previous_recovery_success_rate": 0.82,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0274",
+    "tenure_days": 1575,
+    "total_transactions": 86,
+    "successful_transactions": 76,
+    "payment_success_rate": 0.88,
+    "average_transaction_amount": 3345.43,
+    "previous_recovery_success_rate": 0.92,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0275",
+    "tenure_days": 155,
+    "total_transactions": 35,
+    "successful_transactions": 29,
+    "payment_success_rate": 0.83,
+    "average_transaction_amount": 1389.93,
+    "previous_recovery_success_rate": 0.63,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0276",
+    "tenure_days": 1233,
+    "total_transactions": 98,
+    "successful_transactions": 86,
+    "payment_success_rate": 0.88,
+    "average_transaction_amount": 4844.68,
+    "previous_recovery_success_rate": 0.87,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0277",
+    "tenure_days": 274,
+    "total_transactions": 32,
+    "successful_transactions": 30,
+    "payment_success_rate": 0.93,
+    "average_transaction_amount": 11203.47,
+    "previous_recovery_success_rate": 0.78,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0278",
+    "tenure_days": 351,
+    "total_transactions": 72,
+    "successful_transactions": 68,
+    "payment_success_rate": 0.95,
+    "average_transaction_amount": 3085.78,
+    "previous_recovery_success_rate": 0.89,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0279",
+    "tenure_days": 1262,
+    "total_transactions": 103,
+    "successful_transactions": 89,
+    "payment_success_rate": 0.86,
+    "average_transaction_amount": 4774.15,
+    "previous_recovery_success_rate": 0.5,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0280",
+    "tenure_days": 930,
+    "total_transactions": 48,
+    "successful_transactions": 45,
+    "payment_success_rate": 0.94,
+    "average_transaction_amount": 4227.29,
+    "previous_recovery_success_rate": 0.95,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0281",
+    "tenure_days": 861,
+    "total_transactions": 94,
+    "successful_transactions": 40,
+    "payment_success_rate": 0.43,
+    "average_transaction_amount": 10385.63,
+    "previous_recovery_success_rate": 0.04,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0282",
+    "tenure_days": 733,
+    "total_transactions": 28,
+    "successful_transactions": 21,
+    "payment_success_rate": 0.75,
+    "average_transaction_amount": 3048.46,
+    "previous_recovery_success_rate": 0.42,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0283",
+    "tenure_days": 1511,
+    "total_transactions": 51,
+    "successful_transactions": 35,
+    "payment_success_rate": 0.69,
+    "average_transaction_amount": 750.51,
+    "previous_recovery_success_rate": 0.5,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0284",
+    "tenure_days": 1142,
+    "total_transactions": 33,
+    "successful_transactions": 19,
+    "payment_success_rate": 0.57,
+    "average_transaction_amount": 7496.14,
+    "previous_recovery_success_rate": 0.05,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0285",
+    "tenure_days": 777,
+    "total_transactions": 51,
+    "successful_transactions": 41,
+    "payment_success_rate": 0.81,
+    "average_transaction_amount": 3675.75,
+    "previous_recovery_success_rate": 0.55,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0286",
+    "tenure_days": 514,
+    "total_transactions": 29,
+    "successful_transactions": 14,
+    "payment_success_rate": 0.47,
+    "average_transaction_amount": 7090.84,
+    "previous_recovery_success_rate": 0.03,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0287",
+    "tenure_days": 1737,
+    "total_transactions": 96,
+    "successful_transactions": 83,
+    "payment_success_rate": 0.86,
+    "average_transaction_amount": 4467.15,
+    "previous_recovery_success_rate": 0.84,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0288",
+    "tenure_days": 320,
+    "total_transactions": 36,
+    "successful_transactions": 26,
+    "payment_success_rate": 0.72,
+    "average_transaction_amount": 4204.52,
+    "previous_recovery_success_rate": 0.63,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0289",
+    "tenure_days": 1451,
+    "total_transactions": 48,
+    "successful_transactions": 47,
+    "payment_success_rate": 0.97,
+    "average_transaction_amount": 13520.64,
+    "previous_recovery_success_rate": 0.46,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0290",
+    "tenure_days": 564,
+    "total_transactions": 16,
+    "successful_transactions": 15,
+    "payment_success_rate": 0.93,
+    "average_transaction_amount": 2338.55,
+    "previous_recovery_success_rate": 0.74,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0291",
+    "tenure_days": 1572,
+    "total_transactions": 56,
+    "successful_transactions": 50,
+    "payment_success_rate": 0.9,
+    "average_transaction_amount": 2831.02,
+    "previous_recovery_success_rate": 0.92,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0292",
+    "tenure_days": 83,
+    "total_transactions": 119,
+    "successful_transactions": 65,
+    "payment_success_rate": 0.55,
+    "average_transaction_amount": 954.44,
+    "previous_recovery_success_rate": 0.38,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0293",
+    "tenure_days": 1392,
+    "total_transactions": 72,
+    "successful_transactions": 58,
+    "payment_success_rate": 0.81,
+    "average_transaction_amount": 9378.77,
+    "previous_recovery_success_rate": 0.63,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0294",
+    "tenure_days": 795,
+    "total_transactions": 116,
+    "successful_transactions": 86,
+    "payment_success_rate": 0.74,
+    "average_transaction_amount": 2962.83,
+    "previous_recovery_success_rate": 0.49,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0295",
+    "tenure_days": 1233,
+    "total_transactions": 62,
+    "successful_transactions": 19,
+    "payment_success_rate": 0.31,
+    "average_transaction_amount": 3452.0,
+    "previous_recovery_success_rate": 0.13,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0296",
+    "tenure_days": 1360,
+    "total_transactions": 69,
+    "successful_transactions": 58,
+    "payment_success_rate": 0.84,
+    "average_transaction_amount": 8266.26,
+    "previous_recovery_success_rate": 0.23,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0297",
+    "tenure_days": 175,
+    "total_transactions": 78,
+    "successful_transactions": 41,
+    "payment_success_rate": 0.52,
+    "average_transaction_amount": 3782.87,
+    "previous_recovery_success_rate": 0.23,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0298",
+    "tenure_days": 1625,
+    "total_transactions": 68,
+    "successful_transactions": 62,
+    "payment_success_rate": 0.91,
+    "average_transaction_amount": 2818.92,
+    "previous_recovery_success_rate": 0.92,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0299",
+    "tenure_days": 1015,
+    "total_transactions": 29,
+    "successful_transactions": 28,
+    "payment_success_rate": 0.95,
+    "average_transaction_amount": 18743.59,
+    "previous_recovery_success_rate": 0.6,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0300",
+    "tenure_days": 1744,
+    "total_transactions": 63,
+    "successful_transactions": 40,
+    "payment_success_rate": 0.64,
+    "average_transaction_amount": 690.28,
+    "previous_recovery_success_rate": 0.56,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0301",
+    "tenure_days": 1710,
+    "total_transactions": 16,
+    "successful_transactions": 14,
+    "payment_success_rate": 0.85,
+    "average_transaction_amount": 3907.68,
+    "previous_recovery_success_rate": 0.78,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0302",
+    "tenure_days": 1103,
+    "total_transactions": 24,
+    "successful_transactions": 23,
+    "payment_success_rate": 0.96,
+    "average_transaction_amount": 13208.99,
+    "previous_recovery_success_rate": 0.69,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0303",
+    "tenure_days": 60,
+    "total_transactions": 22,
+    "successful_transactions": 20,
+    "payment_success_rate": 0.92,
+    "average_transaction_amount": 31984.2,
+    "previous_recovery_success_rate": 0.53,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0304",
+    "tenure_days": 548,
+    "total_transactions": 55,
+    "successful_transactions": 11,
+    "payment_success_rate": 0.2,
+    "average_transaction_amount": 5438.07,
+    "previous_recovery_success_rate": 0.08,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0305",
+    "tenure_days": 1174,
+    "total_transactions": 111,
+    "successful_transactions": 92,
+    "payment_success_rate": 0.83,
+    "average_transaction_amount": 1604.29,
+    "previous_recovery_success_rate": 0.75,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0306",
+    "tenure_days": 1758,
+    "total_transactions": 13,
+    "successful_transactions": 9,
+    "payment_success_rate": 0.7,
+    "average_transaction_amount": 4497.56,
+    "previous_recovery_success_rate": 0.49,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0307",
+    "tenure_days": 601,
+    "total_transactions": 91,
+    "successful_transactions": 81,
+    "payment_success_rate": 0.89,
+    "average_transaction_amount": 5094.94,
+    "previous_recovery_success_rate": 0.74,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0308",
+    "tenure_days": 1282,
+    "total_transactions": 113,
+    "successful_transactions": 67,
+    "payment_success_rate": 0.59,
+    "average_transaction_amount": 625.64,
+    "previous_recovery_success_rate": 0.05,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0309",
+    "tenure_days": 1105,
+    "total_transactions": 93,
+    "successful_transactions": 28,
+    "payment_success_rate": 0.3,
+    "average_transaction_amount": 5177.13,
+    "previous_recovery_success_rate": 0.1,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0310",
+    "tenure_days": 1314,
+    "total_transactions": 60,
+    "successful_transactions": 34,
+    "payment_success_rate": 0.57,
+    "average_transaction_amount": 5581.75,
+    "previous_recovery_success_rate": 0.03,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0311",
+    "tenure_days": 1054,
+    "total_transactions": 87,
+    "successful_transactions": 77,
+    "payment_success_rate": 0.88,
+    "average_transaction_amount": 7817.5,
+    "previous_recovery_success_rate": 0.89,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0312",
+    "tenure_days": 1380,
+    "total_transactions": 69,
+    "successful_transactions": 60,
+    "payment_success_rate": 0.87,
+    "average_transaction_amount": 12130.34,
+    "previous_recovery_success_rate": 0.78,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0313",
+    "tenure_days": 1129,
+    "total_transactions": 43,
+    "successful_transactions": 37,
+    "payment_success_rate": 0.87,
+    "average_transaction_amount": 1111.88,
+    "previous_recovery_success_rate": 0.79,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0314",
+    "tenure_days": 690,
+    "total_transactions": 20,
+    "successful_transactions": 18,
+    "payment_success_rate": 0.91,
+    "average_transaction_amount": 3010.85,
+    "previous_recovery_success_rate": 0.84,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0315",
+    "tenure_days": 194,
+    "total_transactions": 80,
+    "successful_transactions": 34,
+    "payment_success_rate": 0.42,
+    "average_transaction_amount": 7424.79,
+    "previous_recovery_success_rate": 0.06,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0316",
+    "tenure_days": 1687,
+    "total_transactions": 36,
+    "successful_transactions": 31,
+    "payment_success_rate": 0.86,
+    "average_transaction_amount": 889.3,
+    "previous_recovery_success_rate": 0.48,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0317",
+    "tenure_days": 288,
+    "total_transactions": 28,
+    "successful_transactions": 26,
+    "payment_success_rate": 0.94,
+    "average_transaction_amount": 817.14,
+    "previous_recovery_success_rate": 0.87,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0318",
+    "tenure_days": 1116,
+    "total_transactions": 48,
+    "successful_transactions": 36,
+    "payment_success_rate": 0.76,
+    "average_transaction_amount": 5945.62,
+    "previous_recovery_success_rate": 0.73,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0319",
+    "tenure_days": 929,
+    "total_transactions": 108,
+    "successful_transactions": 91,
+    "payment_success_rate": 0.84,
+    "average_transaction_amount": 5938.15,
+    "previous_recovery_success_rate": 0.39,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0320",
+    "tenure_days": 726,
+    "total_transactions": 34,
+    "successful_transactions": 30,
+    "payment_success_rate": 0.88,
+    "average_transaction_amount": 10739.9,
+    "previous_recovery_success_rate": 0.9,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0321",
+    "tenure_days": 1398,
+    "total_transactions": 33,
+    "successful_transactions": 30,
+    "payment_success_rate": 0.92,
+    "average_transaction_amount": 21913.51,
+    "previous_recovery_success_rate": 0.65,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0322",
+    "tenure_days": 511,
+    "total_transactions": 60,
+    "successful_transactions": 43,
+    "payment_success_rate": 0.71,
+    "average_transaction_amount": 6923.02,
+    "previous_recovery_success_rate": 0.45,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0323",
+    "tenure_days": 837,
+    "total_transactions": 113,
+    "successful_transactions": 95,
+    "payment_success_rate": 0.84,
+    "average_transaction_amount": 2903.35,
+    "previous_recovery_success_rate": 0.54,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0324",
+    "tenure_days": 124,
+    "total_transactions": 64,
+    "successful_transactions": 44,
+    "payment_success_rate": 0.68,
+    "average_transaction_amount": 5076.31,
+    "previous_recovery_success_rate": 0.49,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0325",
+    "tenure_days": 871,
+    "total_transactions": 43,
+    "successful_transactions": 35,
+    "payment_success_rate": 0.82,
+    "average_transaction_amount": 5661.6,
+    "previous_recovery_success_rate": 0.71,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0326",
+    "tenure_days": 821,
+    "total_transactions": 76,
+    "successful_transactions": 69,
+    "payment_success_rate": 0.91,
+    "average_transaction_amount": 4013.58,
+    "previous_recovery_success_rate": 0.86,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0327",
+    "tenure_days": 1446,
+    "total_transactions": 107,
+    "successful_transactions": 105,
+    "payment_success_rate": 0.98,
+    "average_transaction_amount": 56243.44,
+    "previous_recovery_success_rate": 0.47,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0328",
+    "tenure_days": 86,
+    "total_transactions": 29,
+    "successful_transactions": 8,
+    "payment_success_rate": 0.29,
+    "average_transaction_amount": 6821.62,
+    "previous_recovery_success_rate": 0.01,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0329",
+    "tenure_days": 1695,
+    "total_transactions": 25,
+    "successful_transactions": 22,
+    "payment_success_rate": 0.87,
+    "average_transaction_amount": 6148.49,
+    "previous_recovery_success_rate": 0.86,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0330",
+    "tenure_days": 279,
+    "total_transactions": 37,
+    "successful_transactions": 32,
+    "payment_success_rate": 0.87,
+    "average_transaction_amount": 1539.52,
+    "previous_recovery_success_rate": 0.71,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0331",
+    "tenure_days": 337,
+    "total_transactions": 102,
+    "successful_transactions": 21,
+    "payment_success_rate": 0.21,
+    "average_transaction_amount": 1932.52,
+    "previous_recovery_success_rate": 0.04,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0332",
+    "tenure_days": 1051,
+    "total_transactions": 33,
+    "successful_transactions": 32,
+    "payment_success_rate": 0.97,
+    "average_transaction_amount": 2343.79,
+    "previous_recovery_success_rate": 0.76,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0333",
+    "tenure_days": 1581,
+    "total_transactions": 73,
+    "successful_transactions": 45,
+    "payment_success_rate": 0.61,
+    "average_transaction_amount": 1183.51,
+    "previous_recovery_success_rate": 0.45,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0334",
+    "tenure_days": 1731,
+    "total_transactions": 26,
+    "successful_transactions": 23,
+    "payment_success_rate": 0.87,
+    "average_transaction_amount": 7441.2,
+    "previous_recovery_success_rate": 0.89,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0335",
+    "tenure_days": 1318,
+    "total_transactions": 56,
+    "successful_transactions": 50,
+    "payment_success_rate": 0.9,
+    "average_transaction_amount": 58879.61,
+    "previous_recovery_success_rate": 0.66,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0336",
+    "tenure_days": 1254,
+    "total_transactions": 49,
+    "successful_transactions": 43,
+    "payment_success_rate": 0.88,
+    "average_transaction_amount": 1901.15,
+    "previous_recovery_success_rate": 0.84,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0337",
+    "tenure_days": 181,
+    "total_transactions": 101,
+    "successful_transactions": 79,
+    "payment_success_rate": 0.78,
+    "average_transaction_amount": 5346.96,
+    "previous_recovery_success_rate": 0.22,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0338",
+    "tenure_days": 1183,
+    "total_transactions": 97,
+    "successful_transactions": 22,
+    "payment_success_rate": 0.23,
+    "average_transaction_amount": 4389.45,
+    "previous_recovery_success_rate": 0.24,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0339",
+    "tenure_days": 1095,
+    "total_transactions": 65,
+    "successful_transactions": 31,
+    "payment_success_rate": 0.48,
+    "average_transaction_amount": 5514.81,
+    "previous_recovery_success_rate": 0.1,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0340",
+    "tenure_days": 1465,
+    "total_transactions": 10,
+    "successful_transactions": 3,
+    "payment_success_rate": 0.28,
+    "average_transaction_amount": 3659.91,
+    "previous_recovery_success_rate": 0.2,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0341",
+    "tenure_days": 847,
+    "total_transactions": 18,
+    "successful_transactions": 16,
+    "payment_success_rate": 0.87,
+    "average_transaction_amount": 27216.42,
+    "previous_recovery_success_rate": 0.54,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0342",
+    "tenure_days": 196,
+    "total_transactions": 74,
+    "successful_transactions": 64,
+    "payment_success_rate": 0.86,
+    "average_transaction_amount": 8859.4,
+    "previous_recovery_success_rate": 0.7,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0343",
+    "tenure_days": 1241,
+    "total_transactions": 18,
+    "successful_transactions": 17,
+    "payment_success_rate": 0.93,
+    "average_transaction_amount": 366.06,
+    "previous_recovery_success_rate": 0.83,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0344",
+    "tenure_days": 1579,
+    "total_transactions": 100,
+    "successful_transactions": 92,
+    "payment_success_rate": 0.92,
+    "average_transaction_amount": 14595.46,
+    "previous_recovery_success_rate": 0.33,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0345",
+    "tenure_days": 1697,
+    "total_transactions": 41,
+    "successful_transactions": 9,
+    "payment_success_rate": 0.23,
+    "average_transaction_amount": 1540.92,
+    "previous_recovery_success_rate": 0.08,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0346",
+    "tenure_days": 349,
+    "total_transactions": 69,
+    "successful_transactions": 26,
+    "payment_success_rate": 0.37,
+    "average_transaction_amount": 3496.25,
+    "previous_recovery_success_rate": 0.12,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0347",
+    "tenure_days": 638,
+    "total_transactions": 106,
+    "successful_transactions": 73,
+    "payment_success_rate": 0.69,
+    "average_transaction_amount": 2276.04,
+    "previous_recovery_success_rate": 0.51,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0348",
+    "tenure_days": 1503,
+    "total_transactions": 120,
+    "successful_transactions": 100,
+    "payment_success_rate": 0.83,
+    "average_transaction_amount": 8474.77,
+    "previous_recovery_success_rate": 0.63,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0349",
+    "tenure_days": 799,
+    "total_transactions": 40,
+    "successful_transactions": 39,
+    "payment_success_rate": 0.98,
+    "average_transaction_amount": 29220.1,
+    "previous_recovery_success_rate": 0.68,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0350",
+    "tenure_days": 627,
+    "total_transactions": 119,
+    "successful_transactions": 42,
+    "payment_success_rate": 0.35,
+    "average_transaction_amount": 11308.97,
+    "previous_recovery_success_rate": 0.04,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0351",
+    "tenure_days": 1323,
+    "total_transactions": 44,
+    "successful_transactions": 13,
+    "payment_success_rate": 0.3,
+    "average_transaction_amount": 659.84,
+    "previous_recovery_success_rate": 0.23,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0352",
+    "tenure_days": 111,
+    "total_transactions": 59,
+    "successful_transactions": 57,
+    "payment_success_rate": 0.97,
+    "average_transaction_amount": 7376.31,
+    "previous_recovery_success_rate": 0.81,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0353",
+    "tenure_days": 1731,
+    "total_transactions": 72,
+    "successful_transactions": 34,
+    "payment_success_rate": 0.47,
+    "average_transaction_amount": 5316.68,
+    "previous_recovery_success_rate": 0.0,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0354",
+    "tenure_days": 1639,
+    "total_transactions": 63,
+    "successful_transactions": 60,
+    "payment_success_rate": 0.95,
+    "average_transaction_amount": 13062.77,
+    "previous_recovery_success_rate": 0.53,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0355",
+    "tenure_days": 895,
+    "total_transactions": 63,
+    "successful_transactions": 57,
+    "payment_success_rate": 0.91,
+    "average_transaction_amount": 9402.16,
+    "previous_recovery_success_rate": 0.83,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0356",
+    "tenure_days": 42,
+    "total_transactions": 110,
+    "successful_transactions": 88,
+    "payment_success_rate": 0.8,
+    "average_transaction_amount": 28320.87,
+    "previous_recovery_success_rate": 0.43,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0357",
+    "tenure_days": 1762,
+    "total_transactions": 34,
+    "successful_transactions": 23,
+    "payment_success_rate": 0.67,
+    "average_transaction_amount": 3801.4,
+    "previous_recovery_success_rate": 0.6,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0358",
+    "tenure_days": 1679,
+    "total_transactions": 31,
+    "successful_transactions": 30,
+    "payment_success_rate": 0.96,
+    "average_transaction_amount": 3150.24,
+    "previous_recovery_success_rate": 0.92,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0359",
+    "tenure_days": 1393,
+    "total_transactions": 106,
+    "successful_transactions": 78,
+    "payment_success_rate": 0.74,
+    "average_transaction_amount": 2902.82,
+    "previous_recovery_success_rate": 0.5,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0360",
+    "tenure_days": 125,
+    "total_transactions": 94,
+    "successful_transactions": 85,
+    "payment_success_rate": 0.9,
+    "average_transaction_amount": 830.95,
+    "previous_recovery_success_rate": 0.78,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0361",
+    "tenure_days": 1066,
+    "total_transactions": 31,
+    "successful_transactions": 28,
+    "payment_success_rate": 0.91,
+    "average_transaction_amount": 4180.24,
+    "previous_recovery_success_rate": 0.75,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0362",
+    "tenure_days": 1515,
+    "total_transactions": 18,
+    "successful_transactions": 17,
+    "payment_success_rate": 0.94,
+    "average_transaction_amount": 33419.59,
+    "previous_recovery_success_rate": 0.58,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0363",
+    "tenure_days": 1161,
+    "total_transactions": 18,
+    "successful_transactions": 16,
+    "payment_success_rate": 0.91,
+    "average_transaction_amount": 32256.81,
+    "previous_recovery_success_rate": 0.45,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0364",
+    "tenure_days": 849,
+    "total_transactions": 32,
+    "successful_transactions": 29,
+    "payment_success_rate": 0.9,
+    "average_transaction_amount": 27624.38,
+    "previous_recovery_success_rate": 0.53,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0365",
+    "tenure_days": 1812,
+    "total_transactions": 43,
+    "successful_transactions": 38,
+    "payment_success_rate": 0.88,
+    "average_transaction_amount": 5249.86,
+    "previous_recovery_success_rate": 0.48,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0366",
+    "tenure_days": 543,
+    "total_transactions": 48,
+    "successful_transactions": 33,
+    "payment_success_rate": 0.68,
+    "average_transaction_amount": 1400.14,
+    "previous_recovery_success_rate": 0.6,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0367",
+    "tenure_days": 620,
+    "total_transactions": 97,
+    "successful_transactions": 78,
+    "payment_success_rate": 0.8,
+    "average_transaction_amount": 9938.82,
+    "previous_recovery_success_rate": 0.24,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0368",
+    "tenure_days": 160,
+    "total_transactions": 44,
+    "successful_transactions": 9,
+    "payment_success_rate": 0.21,
+    "average_transaction_amount": 10804.16,
+    "previous_recovery_success_rate": 0.22,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0369",
+    "tenure_days": 1221,
+    "total_transactions": 88,
+    "successful_transactions": 69,
+    "payment_success_rate": 0.78,
+    "average_transaction_amount": 5607.35,
+    "previous_recovery_success_rate": 0.68,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0370",
+    "tenure_days": 81,
+    "total_transactions": 112,
+    "successful_transactions": 25,
+    "payment_success_rate": 0.22,
+    "average_transaction_amount": 3929.19,
+    "previous_recovery_success_rate": 0.17,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0371",
+    "tenure_days": 534,
+    "total_transactions": 24,
+    "successful_transactions": 16,
+    "payment_success_rate": 0.66,
+    "average_transaction_amount": 8245.85,
+    "previous_recovery_success_rate": 0.49,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0372",
+    "tenure_days": 1575,
+    "total_transactions": 17,
+    "successful_transactions": 16,
+    "payment_success_rate": 0.96,
+    "average_transaction_amount": 6400.61,
+    "previous_recovery_success_rate": 0.74,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0373",
+    "tenure_days": 1434,
+    "total_transactions": 42,
+    "successful_transactions": 24,
+    "payment_success_rate": 0.58,
+    "average_transaction_amount": 3366.4,
+    "previous_recovery_success_rate": 0.21,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0374",
+    "tenure_days": 1383,
+    "total_transactions": 24,
+    "successful_transactions": 16,
+    "payment_success_rate": 0.68,
+    "average_transaction_amount": 8623.29,
+    "previous_recovery_success_rate": 0.74,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0375",
+    "tenure_days": 1646,
+    "total_transactions": 87,
+    "successful_transactions": 63,
+    "payment_success_rate": 0.72,
+    "average_transaction_amount": 5727.08,
+    "previous_recovery_success_rate": 0.56,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0376",
+    "tenure_days": 120,
+    "total_transactions": 67,
+    "successful_transactions": 60,
+    "payment_success_rate": 0.9,
+    "average_transaction_amount": 7582.7,
+    "previous_recovery_success_rate": 0.7,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0377",
+    "tenure_days": 890,
+    "total_transactions": 56,
+    "successful_transactions": 36,
+    "payment_success_rate": 0.64,
+    "average_transaction_amount": 2364.37,
+    "previous_recovery_success_rate": 0.45,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0378",
+    "tenure_days": 1679,
+    "total_transactions": 77,
+    "successful_transactions": 52,
+    "payment_success_rate": 0.68,
+    "average_transaction_amount": 7998.92,
+    "previous_recovery_success_rate": 0.44,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0379",
+    "tenure_days": 1475,
+    "total_transactions": 11,
+    "successful_transactions": 10,
+    "payment_success_rate": 0.93,
+    "average_transaction_amount": 3432.75,
+    "previous_recovery_success_rate": 0.82,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0380",
+    "tenure_days": 1365,
+    "total_transactions": 18,
+    "successful_transactions": 10,
+    "payment_success_rate": 0.53,
+    "average_transaction_amount": 3043.88,
+    "previous_recovery_success_rate": 0.14,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0381",
+    "tenure_days": 1740,
+    "total_transactions": 52,
+    "successful_transactions": 24,
+    "payment_success_rate": 0.47,
+    "average_transaction_amount": 3442.53,
+    "previous_recovery_success_rate": 0.01,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0382",
+    "tenure_days": 197,
+    "total_transactions": 96,
+    "successful_transactions": 21,
+    "payment_success_rate": 0.22,
+    "average_transaction_amount": 9445.53,
+    "previous_recovery_success_rate": 0.04,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0383",
+    "tenure_days": 1745,
+    "total_transactions": 92,
+    "successful_transactions": 58,
+    "payment_success_rate": 0.63,
+    "average_transaction_amount": 7530.06,
+    "previous_recovery_success_rate": 0.58,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0384",
+    "tenure_days": 705,
+    "total_transactions": 31,
+    "successful_transactions": 16,
+    "payment_success_rate": 0.53,
+    "average_transaction_amount": 10974.68,
+    "previous_recovery_success_rate": 0.18,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0385",
+    "tenure_days": 1811,
+    "total_transactions": 9,
+    "successful_transactions": 8,
+    "payment_success_rate": 0.9,
+    "average_transaction_amount": 2903.61,
+    "previous_recovery_success_rate": 0.7,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0386",
+    "tenure_days": 1113,
+    "total_transactions": 83,
+    "successful_transactions": 57,
+    "payment_success_rate": 0.69,
+    "average_transaction_amount": 992.0,
+    "previous_recovery_success_rate": 0.73,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0387",
+    "tenure_days": 1362,
+    "total_transactions": 92,
+    "successful_transactions": 81,
+    "payment_success_rate": 0.88,
+    "average_transaction_amount": 6098.1,
+    "previous_recovery_success_rate": 0.91,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0388",
+    "tenure_days": 783,
+    "total_transactions": 29,
+    "successful_transactions": 19,
+    "payment_success_rate": 0.65,
+    "average_transaction_amount": 6416.82,
+    "previous_recovery_success_rate": 0.33,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0389",
+    "tenure_days": 440,
+    "total_transactions": 81,
+    "successful_transactions": 68,
+    "payment_success_rate": 0.84,
+    "average_transaction_amount": 43407.94,
+    "previous_recovery_success_rate": 0.38,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0390",
+    "tenure_days": 627,
+    "total_transactions": 101,
+    "successful_transactions": 69,
+    "payment_success_rate": 0.68,
+    "average_transaction_amount": 9417.76,
+    "previous_recovery_success_rate": 0.64,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0391",
+    "tenure_days": 1634,
+    "total_transactions": 44,
+    "successful_transactions": 11,
+    "payment_success_rate": 0.26,
+    "average_transaction_amount": 1205.47,
+    "previous_recovery_success_rate": 0.23,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0392",
+    "tenure_days": 531,
+    "total_transactions": 59,
+    "successful_transactions": 53,
+    "payment_success_rate": 0.9,
+    "average_transaction_amount": 22232.39,
+    "previous_recovery_success_rate": 0.42,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0393",
+    "tenure_days": 84,
+    "total_transactions": 56,
+    "successful_transactions": 34,
+    "payment_success_rate": 0.6,
+    "average_transaction_amount": 6327.7,
+    "previous_recovery_success_rate": 0.22,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0394",
+    "tenure_days": 1722,
+    "total_transactions": 113,
+    "successful_transactions": 101,
+    "payment_success_rate": 0.89,
+    "average_transaction_amount": 6295.63,
+    "previous_recovery_success_rate": 0.49,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0395",
+    "tenure_days": 893,
+    "total_transactions": 37,
+    "successful_transactions": 27,
+    "payment_success_rate": 0.73,
+    "average_transaction_amount": 7179.99,
+    "previous_recovery_success_rate": 0.58,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0396",
+    "tenure_days": 1634,
+    "total_transactions": 63,
+    "successful_transactions": 61,
+    "payment_success_rate": 0.97,
+    "average_transaction_amount": 864.95,
+    "previous_recovery_success_rate": 0.94,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0397",
+    "tenure_days": 764,
+    "total_transactions": 81,
+    "successful_transactions": 70,
+    "payment_success_rate": 0.86,
+    "average_transaction_amount": 1614.18,
+    "previous_recovery_success_rate": 0.75,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0398",
+    "tenure_days": 1559,
+    "total_transactions": 110,
+    "successful_transactions": 76,
+    "payment_success_rate": 0.69,
+    "average_transaction_amount": 6025.82,
+    "previous_recovery_success_rate": 0.34,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0399",
+    "tenure_days": 1324,
+    "total_transactions": 87,
+    "successful_transactions": 42,
+    "payment_success_rate": 0.48,
+    "average_transaction_amount": 5359.96,
+    "previous_recovery_success_rate": 0.24,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0400",
+    "tenure_days": 556,
+    "total_transactions": 95,
+    "successful_transactions": 67,
+    "payment_success_rate": 0.71,
+    "average_transaction_amount": 8716.45,
+    "previous_recovery_success_rate": 0.54,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0401",
+    "tenure_days": 1204,
+    "total_transactions": 86,
+    "successful_transactions": 77,
+    "payment_success_rate": 0.89,
+    "average_transaction_amount": 8569.35,
+    "previous_recovery_success_rate": 0.79,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0402",
+    "tenure_days": 255,
+    "total_transactions": 14,
+    "successful_transactions": 12,
+    "payment_success_rate": 0.84,
+    "average_transaction_amount": 16311.08,
+    "previous_recovery_success_rate": 0.6,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0403",
+    "tenure_days": 239,
+    "total_transactions": 48,
+    "successful_transactions": 35,
+    "payment_success_rate": 0.73,
+    "average_transaction_amount": 2535.1,
+    "previous_recovery_success_rate": 0.64,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0404",
+    "tenure_days": 722,
+    "total_transactions": 48,
+    "successful_transactions": 39,
+    "payment_success_rate": 0.81,
+    "average_transaction_amount": 5386.61,
+    "previous_recovery_success_rate": 0.67,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0405",
+    "tenure_days": 1731,
+    "total_transactions": 35,
+    "successful_transactions": 30,
+    "payment_success_rate": 0.85,
+    "average_transaction_amount": 1657.22,
+    "previous_recovery_success_rate": 0.45,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0406",
+    "tenure_days": 215,
+    "total_transactions": 106,
+    "successful_transactions": 85,
+    "payment_success_rate": 0.8,
+    "average_transaction_amount": 7468.31,
+    "previous_recovery_success_rate": 0.34,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0407",
+    "tenure_days": 1050,
+    "total_transactions": 54,
+    "successful_transactions": 39,
+    "payment_success_rate": 0.73,
+    "average_transaction_amount": 3337.86,
+    "previous_recovery_success_rate": 0.42,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0408",
+    "tenure_days": 1105,
+    "total_transactions": 103,
+    "successful_transactions": 88,
+    "payment_success_rate": 0.85,
+    "average_transaction_amount": 843.38,
+    "previous_recovery_success_rate": 0.79,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0409",
+    "tenure_days": 1046,
+    "total_transactions": 40,
+    "successful_transactions": 11,
+    "payment_success_rate": 0.27,
+    "average_transaction_amount": 7951.21,
+    "previous_recovery_success_rate": 0.03,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0410",
+    "tenure_days": 1611,
+    "total_transactions": 19,
+    "successful_transactions": 15,
+    "payment_success_rate": 0.79,
+    "average_transaction_amount": 7405.39,
+    "previous_recovery_success_rate": 0.49,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0411",
+    "tenure_days": 273,
+    "total_transactions": 33,
+    "successful_transactions": 19,
+    "payment_success_rate": 0.58,
+    "average_transaction_amount": 5911.17,
+    "previous_recovery_success_rate": 0.44,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0412",
+    "tenure_days": 1453,
+    "total_transactions": 38,
+    "successful_transactions": 36,
+    "payment_success_rate": 0.94,
+    "average_transaction_amount": 8115.89,
+    "previous_recovery_success_rate": 0.9,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0413",
+    "tenure_days": 1407,
+    "total_transactions": 13,
+    "successful_transactions": 9,
+    "payment_success_rate": 0.73,
+    "average_transaction_amount": 10687.34,
+    "previous_recovery_success_rate": 0.46,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0414",
+    "tenure_days": 703,
+    "total_transactions": 97,
+    "successful_transactions": 85,
+    "payment_success_rate": 0.88,
+    "average_transaction_amount": 2397.66,
+    "previous_recovery_success_rate": 0.93,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0415",
+    "tenure_days": 922,
+    "total_transactions": 9,
+    "successful_transactions": 3,
+    "payment_success_rate": 0.37,
+    "average_transaction_amount": 3639.94,
+    "previous_recovery_success_rate": 0.07,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0416",
+    "tenure_days": 1646,
+    "total_transactions": 90,
+    "successful_transactions": 81,
+    "payment_success_rate": 0.9,
+    "average_transaction_amount": 16336.93,
+    "previous_recovery_success_rate": 0.37,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0417",
+    "tenure_days": 1617,
+    "total_transactions": 88,
+    "successful_transactions": 26,
+    "payment_success_rate": 0.3,
+    "average_transaction_amount": 717.03,
+    "previous_recovery_success_rate": 0.09,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0418",
+    "tenure_days": 433,
+    "total_transactions": 15,
+    "successful_transactions": 12,
+    "payment_success_rate": 0.83,
+    "average_transaction_amount": 795.76,
+    "previous_recovery_success_rate": 0.6,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0419",
+    "tenure_days": 1442,
+    "total_transactions": 29,
+    "successful_transactions": 19,
+    "payment_success_rate": 0.67,
+    "average_transaction_amount": 6496.44,
+    "previous_recovery_success_rate": 0.75,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0420",
+    "tenure_days": 547,
+    "total_transactions": 75,
+    "successful_transactions": 56,
+    "payment_success_rate": 0.75,
+    "average_transaction_amount": 3757.21,
+    "previous_recovery_success_rate": 0.49,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0421",
+    "tenure_days": 738,
+    "total_transactions": 49,
+    "successful_transactions": 41,
+    "payment_success_rate": 0.84,
+    "average_transaction_amount": 11268.68,
+    "previous_recovery_success_rate": 0.55,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0422",
+    "tenure_days": 550,
+    "total_transactions": 59,
+    "successful_transactions": 45,
+    "payment_success_rate": 0.76,
+    "average_transaction_amount": 1329.84,
+    "previous_recovery_success_rate": 0.58,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0423",
+    "tenure_days": 1247,
+    "total_transactions": 29,
+    "successful_transactions": 28,
+    "payment_success_rate": 0.95,
+    "average_transaction_amount": 7764.89,
+    "previous_recovery_success_rate": 0.9,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0424",
+    "tenure_days": 429,
+    "total_transactions": 120,
+    "successful_transactions": 41,
+    "payment_success_rate": 0.34,
+    "average_transaction_amount": 5880.09,
+    "previous_recovery_success_rate": 0.08,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0425",
+    "tenure_days": 1174,
+    "total_transactions": 100,
+    "successful_transactions": 36,
+    "payment_success_rate": 0.36,
+    "average_transaction_amount": 3011.52,
+    "previous_recovery_success_rate": 0.24,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0426",
+    "tenure_days": 1456,
+    "total_transactions": 36,
+    "successful_transactions": 33,
+    "payment_success_rate": 0.93,
+    "average_transaction_amount": 332.44,
+    "previous_recovery_success_rate": 0.94,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0427",
+    "tenure_days": 646,
+    "total_transactions": 15,
+    "successful_transactions": 8,
+    "payment_success_rate": 0.56,
+    "average_transaction_amount": 3846.8,
+    "previous_recovery_success_rate": 0.19,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0428",
+    "tenure_days": 502,
+    "total_transactions": 106,
+    "successful_transactions": 92,
+    "payment_success_rate": 0.87,
+    "average_transaction_amount": 3508.63,
+    "previous_recovery_success_rate": 0.61,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0429",
+    "tenure_days": 1205,
+    "total_transactions": 73,
+    "successful_transactions": 53,
+    "payment_success_rate": 0.73,
+    "average_transaction_amount": 5799.52,
+    "previous_recovery_success_rate": 0.49,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0430",
+    "tenure_days": 1293,
+    "total_transactions": 83,
+    "successful_transactions": 75,
+    "payment_success_rate": 0.9,
+    "average_transaction_amount": 9005.56,
+    "previous_recovery_success_rate": 0.77,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0431",
+    "tenure_days": 784,
+    "total_transactions": 110,
+    "successful_transactions": 101,
+    "payment_success_rate": 0.92,
+    "average_transaction_amount": 4565.12,
+    "previous_recovery_success_rate": 0.85,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0432",
+    "tenure_days": 501,
+    "total_transactions": 74,
+    "successful_transactions": 57,
+    "payment_success_rate": 0.77,
+    "average_transaction_amount": 12542.02,
+    "previous_recovery_success_rate": 0.45,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0433",
+    "tenure_days": 1332,
+    "total_transactions": 58,
+    "successful_transactions": 56,
+    "payment_success_rate": 0.96,
+    "average_transaction_amount": 4851.07,
+    "previous_recovery_success_rate": 0.9,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0434",
+    "tenure_days": 814,
+    "total_transactions": 40,
+    "successful_transactions": 34,
+    "payment_success_rate": 0.85,
+    "average_transaction_amount": 4636.98,
+    "previous_recovery_success_rate": 0.48,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0435",
+    "tenure_days": 81,
+    "total_transactions": 62,
+    "successful_transactions": 53,
+    "payment_success_rate": 0.86,
+    "average_transaction_amount": 6082.83,
+    "previous_recovery_success_rate": 0.77,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0436",
+    "tenure_days": 757,
+    "total_transactions": 40,
+    "successful_transactions": 34,
+    "payment_success_rate": 0.86,
+    "average_transaction_amount": 630.46,
+    "previous_recovery_success_rate": 0.53,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0437",
+    "tenure_days": 1785,
+    "total_transactions": 12,
+    "successful_transactions": 5,
+    "payment_success_rate": 0.41,
+    "average_transaction_amount": 7948.49,
+    "previous_recovery_success_rate": 0.01,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0438",
+    "tenure_days": 1079,
+    "total_transactions": 115,
+    "successful_transactions": 89,
+    "payment_success_rate": 0.77,
+    "average_transaction_amount": 3429.77,
+    "previous_recovery_success_rate": 0.45,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0439",
+    "tenure_days": 396,
+    "total_transactions": 20,
+    "successful_transactions": 4,
+    "payment_success_rate": 0.22,
+    "average_transaction_amount": 8671.84,
+    "previous_recovery_success_rate": 0.04,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0440",
+    "tenure_days": 735,
+    "total_transactions": 108,
+    "successful_transactions": 89,
+    "payment_success_rate": 0.82,
+    "average_transaction_amount": 4376.65,
+    "previous_recovery_success_rate": 0.62,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0441",
+    "tenure_days": 1568,
+    "total_transactions": 91,
+    "successful_transactions": 63,
+    "payment_success_rate": 0.69,
+    "average_transaction_amount": 241.03,
+    "previous_recovery_success_rate": 0.25,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0442",
+    "tenure_days": 213,
+    "total_transactions": 49,
+    "successful_transactions": 36,
+    "payment_success_rate": 0.73,
+    "average_transaction_amount": 4842.02,
+    "previous_recovery_success_rate": 0.65,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0443",
+    "tenure_days": 1117,
+    "total_transactions": 28,
+    "successful_transactions": 6,
+    "payment_success_rate": 0.22,
+    "average_transaction_amount": 5676.21,
+    "previous_recovery_success_rate": 0.21,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0444",
+    "tenure_days": 1048,
+    "total_transactions": 98,
+    "successful_transactions": 81,
+    "payment_success_rate": 0.83,
+    "average_transaction_amount": 5830.55,
+    "previous_recovery_success_rate": 0.56,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0445",
+    "tenure_days": 943,
+    "total_transactions": 39,
+    "successful_transactions": 12,
+    "payment_success_rate": 0.31,
+    "average_transaction_amount": 6268.76,
+    "previous_recovery_success_rate": 0.08,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0446",
+    "tenure_days": 977,
+    "total_transactions": 63,
+    "successful_transactions": 60,
+    "payment_success_rate": 0.96,
+    "average_transaction_amount": 1078.91,
+    "previous_recovery_success_rate": 0.81,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0447",
+    "tenure_days": 1702,
+    "total_transactions": 48,
+    "successful_transactions": 29,
+    "payment_success_rate": 0.61,
+    "average_transaction_amount": 9019.81,
+    "previous_recovery_success_rate": 0.34,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0448",
+    "tenure_days": 1198,
+    "total_transactions": 109,
+    "successful_transactions": 37,
+    "payment_success_rate": 0.34,
+    "average_transaction_amount": 6581.15,
+    "previous_recovery_success_rate": 0.23,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0449",
+    "tenure_days": 199,
+    "total_transactions": 17,
+    "successful_transactions": 12,
+    "payment_success_rate": 0.69,
+    "average_transaction_amount": 8237.3,
+    "previous_recovery_success_rate": 0.4,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0450",
+    "tenure_days": 907,
+    "total_transactions": 102,
+    "successful_transactions": 79,
+    "payment_success_rate": 0.77,
+    "average_transaction_amount": 4025.93,
+    "previous_recovery_success_rate": 0.54,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0451",
+    "tenure_days": 1307,
+    "total_transactions": 36,
+    "successful_transactions": 35,
+    "payment_success_rate": 0.97,
+    "average_transaction_amount": 2639.81,
+    "previous_recovery_success_rate": 0.74,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0452",
+    "tenure_days": 670,
+    "total_transactions": 60,
+    "successful_transactions": 20,
+    "payment_success_rate": 0.34,
+    "average_transaction_amount": 2304.37,
+    "previous_recovery_success_rate": 0.22,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0453",
+    "tenure_days": 1552,
+    "total_transactions": 69,
+    "successful_transactions": 56,
+    "payment_success_rate": 0.81,
+    "average_transaction_amount": 45075.85,
+    "previous_recovery_success_rate": 0.47,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0454",
+    "tenure_days": 1029,
+    "total_transactions": 109,
+    "successful_transactions": 73,
+    "payment_success_rate": 0.67,
+    "average_transaction_amount": 7214.63,
+    "previous_recovery_success_rate": 0.54,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0455",
+    "tenure_days": 716,
+    "total_transactions": 49,
+    "successful_transactions": 44,
+    "payment_success_rate": 0.89,
+    "average_transaction_amount": 8181.99,
+    "previous_recovery_success_rate": 0.91,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0456",
+    "tenure_days": 40,
+    "total_transactions": 101,
+    "successful_transactions": 96,
+    "payment_success_rate": 0.95,
+    "average_transaction_amount": 1417.03,
+    "previous_recovery_success_rate": 0.74,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0457",
+    "tenure_days": 1816,
+    "total_transactions": 64,
+    "successful_transactions": 24,
+    "payment_success_rate": 0.37,
+    "average_transaction_amount": 1299.38,
+    "previous_recovery_success_rate": 0.12,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0458",
+    "tenure_days": 403,
+    "total_transactions": 77,
+    "successful_transactions": 48,
+    "payment_success_rate": 0.62,
+    "average_transaction_amount": 3610.86,
+    "previous_recovery_success_rate": 0.28,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0459",
+    "tenure_days": 1741,
+    "total_transactions": 24,
+    "successful_transactions": 6,
+    "payment_success_rate": 0.23,
+    "average_transaction_amount": 2326.03,
+    "previous_recovery_success_rate": 0.19,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0460",
+    "tenure_days": 1034,
+    "total_transactions": 75,
+    "successful_transactions": 40,
+    "payment_success_rate": 0.53,
+    "average_transaction_amount": 7622.42,
+    "previous_recovery_success_rate": 0.15,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0461",
+    "tenure_days": 400,
+    "total_transactions": 53,
+    "successful_transactions": 27,
+    "payment_success_rate": 0.51,
+    "average_transaction_amount": 2247.75,
+    "previous_recovery_success_rate": 0.04,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0462",
+    "tenure_days": 309,
+    "total_transactions": 54,
+    "successful_transactions": 39,
+    "payment_success_rate": 0.73,
+    "average_transaction_amount": 7478.46,
+    "previous_recovery_success_rate": 0.74,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0463",
+    "tenure_days": 1733,
+    "total_transactions": 93,
+    "successful_transactions": 78,
+    "payment_success_rate": 0.84,
+    "average_transaction_amount": 4056.16,
+    "previous_recovery_success_rate": 0.22,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0464",
+    "tenure_days": 188,
+    "total_transactions": 11,
+    "successful_transactions": 10,
+    "payment_success_rate": 0.92,
+    "average_transaction_amount": 2398.04,
+    "previous_recovery_success_rate": 0.86,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0465",
+    "tenure_days": 91,
+    "total_transactions": 29,
+    "successful_transactions": 25,
+    "payment_success_rate": 0.86,
+    "average_transaction_amount": 28163.57,
+    "previous_recovery_success_rate": 0.45,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0466",
+    "tenure_days": 688,
+    "total_transactions": 53,
+    "successful_transactions": 50,
+    "payment_success_rate": 0.94,
+    "average_transaction_amount": 26678.54,
+    "previous_recovery_success_rate": 0.37,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0467",
+    "tenure_days": 235,
+    "total_transactions": 60,
+    "successful_transactions": 57,
+    "payment_success_rate": 0.95,
+    "average_transaction_amount": 7582.51,
+    "previous_recovery_success_rate": 0.86,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0468",
+    "tenure_days": 1436,
+    "total_transactions": 96,
+    "successful_transactions": 67,
+    "payment_success_rate": 0.7,
+    "average_transaction_amount": 5937.51,
+    "previous_recovery_success_rate": 0.51,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0469",
+    "tenure_days": 933,
+    "total_transactions": 53,
+    "successful_transactions": 51,
+    "payment_success_rate": 0.97,
+    "average_transaction_amount": 17597.33,
+    "previous_recovery_success_rate": 0.45,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0470",
+    "tenure_days": 1398,
+    "total_transactions": 69,
+    "successful_transactions": 44,
+    "payment_success_rate": 0.64,
+    "average_transaction_amount": 3289.66,
+    "previous_recovery_success_rate": 0.23,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0471",
+    "tenure_days": 981,
+    "total_transactions": 95,
+    "successful_transactions": 87,
+    "payment_success_rate": 0.92,
+    "average_transaction_amount": 2773.34,
+    "previous_recovery_success_rate": 0.84,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0472",
+    "tenure_days": 225,
+    "total_transactions": 113,
+    "successful_transactions": 106,
+    "payment_success_rate": 0.94,
+    "average_transaction_amount": 12595.75,
+    "previous_recovery_success_rate": 0.81,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0473",
+    "tenure_days": 309,
+    "total_transactions": 15,
+    "successful_transactions": 11,
+    "payment_success_rate": 0.71,
+    "average_transaction_amount": 1635.12,
+    "previous_recovery_success_rate": 0.58,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0474",
+    "tenure_days": 657,
+    "total_transactions": 41,
+    "successful_transactions": 30,
+    "payment_success_rate": 0.73,
+    "average_transaction_amount": 4278.41,
+    "previous_recovery_success_rate": 0.64,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0475",
+    "tenure_days": 287,
+    "total_transactions": 82,
+    "successful_transactions": 60,
+    "payment_success_rate": 0.73,
+    "average_transaction_amount": 1526.36,
+    "previous_recovery_success_rate": 0.66,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0476",
+    "tenure_days": 272,
+    "total_transactions": 37,
+    "successful_transactions": 31,
+    "payment_success_rate": 0.84,
+    "average_transaction_amount": 2172.15,
+    "previous_recovery_success_rate": 0.43,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0477",
+    "tenure_days": 694,
+    "total_transactions": 28,
+    "successful_transactions": 19,
+    "payment_success_rate": 0.69,
+    "average_transaction_amount": 7311.07,
+    "previous_recovery_success_rate": 0.59,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0478",
+    "tenure_days": 1672,
+    "total_transactions": 81,
+    "successful_transactions": 55,
+    "payment_success_rate": 0.68,
+    "average_transaction_amount": 2043.03,
+    "previous_recovery_success_rate": 0.58,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0479",
+    "tenure_days": 1382,
+    "total_transactions": 46,
+    "successful_transactions": 27,
+    "payment_success_rate": 0.59,
+    "average_transaction_amount": 9507.19,
+    "previous_recovery_success_rate": 0.23,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0480",
+    "tenure_days": 1577,
+    "total_transactions": 32,
+    "successful_transactions": 26,
+    "payment_success_rate": 0.82,
+    "average_transaction_amount": 1500.24,
+    "previous_recovery_success_rate": 0.53,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0481",
+    "tenure_days": 336,
+    "total_transactions": 62,
+    "successful_transactions": 42,
+    "payment_success_rate": 0.67,
+    "average_transaction_amount": 4638.8,
+    "previous_recovery_success_rate": 0.56,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0482",
+    "tenure_days": 1282,
+    "total_transactions": 103,
+    "successful_transactions": 93,
+    "payment_success_rate": 0.9,
+    "average_transaction_amount": 2618.98,
+    "previous_recovery_success_rate": 0.74,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0483",
+    "tenure_days": 1796,
+    "total_transactions": 79,
+    "successful_transactions": 59,
+    "payment_success_rate": 0.75,
+    "average_transaction_amount": 934.67,
+    "previous_recovery_success_rate": 0.52,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0484",
+    "tenure_days": 1668,
+    "total_transactions": 9,
+    "successful_transactions": 8,
+    "payment_success_rate": 0.88,
+    "average_transaction_amount": 7705.38,
+    "previous_recovery_success_rate": 0.75,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0485",
+    "tenure_days": 440,
+    "total_transactions": 11,
+    "successful_transactions": 8,
+    "payment_success_rate": 0.71,
+    "average_transaction_amount": 6521.54,
+    "previous_recovery_success_rate": 0.66,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0486",
+    "tenure_days": 144,
+    "total_transactions": 61,
+    "successful_transactions": 20,
+    "payment_success_rate": 0.33,
+    "average_transaction_amount": 4750.05,
+    "previous_recovery_success_rate": 0.13,
+    "contacts_last_7_days": 3
+  },
+  {
+    "customer_id": "CUST_0487",
+    "tenure_days": 753,
+    "total_transactions": 39,
+    "successful_transactions": 35,
+    "payment_success_rate": 0.89,
+    "average_transaction_amount": 6685.99,
+    "previous_recovery_success_rate": 0.94,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0488",
+    "tenure_days": 854,
+    "total_transactions": 47,
+    "successful_transactions": 17,
+    "payment_success_rate": 0.37,
+    "average_transaction_amount": 6830.59,
+    "previous_recovery_success_rate": 0.13,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0489",
+    "tenure_days": 1135,
+    "total_transactions": 10,
+    "successful_transactions": 8,
+    "payment_success_rate": 0.79,
+    "average_transaction_amount": 6743.37,
+    "previous_recovery_success_rate": 0.63,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0490",
+    "tenure_days": 753,
+    "total_transactions": 74,
+    "successful_transactions": 44,
+    "payment_success_rate": 0.6,
+    "average_transaction_amount": 5907.91,
+    "previous_recovery_success_rate": 0.2,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0491",
+    "tenure_days": 1365,
+    "total_transactions": 16,
+    "successful_transactions": 12,
+    "payment_success_rate": 0.76,
+    "average_transaction_amount": 2560.41,
+    "previous_recovery_success_rate": 0.61,
+    "contacts_last_7_days": 1
+  },
+  {
+    "customer_id": "CUST_0492",
+    "tenure_days": 176,
+    "total_transactions": 96,
+    "successful_transactions": 66,
+    "payment_success_rate": 0.69,
+    "average_transaction_amount": 6264.05,
+    "previous_recovery_success_rate": 0.58,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0493",
+    "tenure_days": 376,
+    "total_transactions": 33,
+    "successful_transactions": 23,
+    "payment_success_rate": 0.69,
+    "average_transaction_amount": 1471.56,
+    "previous_recovery_success_rate": 0.41,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0494",
+    "tenure_days": 1249,
+    "total_transactions": 29,
+    "successful_transactions": 17,
+    "payment_success_rate": 0.58,
+    "average_transaction_amount": 6209.34,
+    "previous_recovery_success_rate": 0.28,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0495",
+    "tenure_days": 836,
+    "total_transactions": 12,
+    "successful_transactions": 10,
+    "payment_success_rate": 0.82,
+    "average_transaction_amount": 7679.1,
+    "previous_recovery_success_rate": 0.37,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0496",
+    "tenure_days": 286,
+    "total_transactions": 84,
+    "successful_transactions": 73,
+    "payment_success_rate": 0.87,
+    "average_transaction_amount": 8491.41,
+    "previous_recovery_success_rate": 0.57,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0497",
+    "tenure_days": 690,
+    "total_transactions": 87,
+    "successful_transactions": 30,
+    "payment_success_rate": 0.34,
+    "average_transaction_amount": 3027.35,
+    "previous_recovery_success_rate": 0.22,
+    "contacts_last_7_days": 4
+  },
+  {
+    "customer_id": "CUST_0498",
+    "tenure_days": 37,
+    "total_transactions": 95,
+    "successful_transactions": 87,
+    "payment_success_rate": 0.92,
+    "average_transaction_amount": 9542.62,
+    "previous_recovery_success_rate": 0.72,
+    "contacts_last_7_days": 0
+  },
+  {
+    "customer_id": "CUST_0499",
+    "tenure_days": 1215,
+    "total_transactions": 22,
+    "successful_transactions": 13,
+    "payment_success_rate": 0.61,
+    "average_transaction_amount": 8108.75,
+    "previous_recovery_success_rate": 0.68,
+    "contacts_last_7_days": 2
+  },
+  {
+    "customer_id": "CUST_0500",
+    "tenure_days": 1526,
+    "total_transactions": 22,
+    "successful_transactions": 10,
+    "payment_success_rate": 0.45,
+    "average_transaction_amount": 1231.1,
+    "previous_recovery_success_rate": 0.06,
+    "contacts_last_7_days": 4
+  }
+]
