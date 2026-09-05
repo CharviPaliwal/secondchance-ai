@@ -22,14 +22,14 @@ def _action_value(action: Any) -> str:
 
 
 def simulate_action(
-    transaction: dict[str, Any], action: str, truth: dict[str, Any]
+    transaction: dict[str, Any], action: str, truth: dict[str, Any], run_seed: int = 2026
 ) -> dict[str, Any]:
     """Evaluate one action with a stable action-specific pseudo-random draw."""
     action_value = _action_value(action)
     probabilities = truth.get("action_success_probabilities", {})
     probability = float(probabilities.get(action_value, 0.0))
     action_offset = int(hashlib.sha256(action_value.encode("utf-8")).hexdigest(), 16)
-    combined_seed = int(truth.get("simulation_seed", 0)) + action_offset
+    combined_seed = int(hashlib.sha256(f"{truth.get('simulation_seed', 0)}:{run_seed}:{transaction.get('transaction_id')}:{action_value}".encode("utf-8")).hexdigest(), 16)
     success = random.Random(combined_seed).random() < probability
 
     return {
@@ -48,6 +48,7 @@ def simulate_strategy(
     customers: dict[str, dict[str, Any]],
     decisions: list[dict[str, Any]],
     simulation_truth: list[dict[str, Any]] | dict[str, dict[str, Any]],
+    run_seed: int = 2026,
 ) -> list[dict[str, Any]]:
     """Simulate one chosen action for each transaction.
 
@@ -72,5 +73,5 @@ def simulate_strategy(
         decision = decisions_by_id.get(transaction_id, {})
         action = decision.get("final_action", decision.get("recommended_action", "STOP_RECOVERY"))
         truth = truth_by_id.get(transaction_id, {})
-        results.append(simulate_action(transaction, action, truth))
+        results.append(simulate_action(transaction, action, truth, run_seed=run_seed))
     return results

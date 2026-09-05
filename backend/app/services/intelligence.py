@@ -4,6 +4,9 @@ from __future__ import annotations
 
 from typing import Any
 
+from app.ml.model import metadata as model_metadata
+from app.ml.model import predict_action_probabilities
+
 
 ACTIONS = (
     "RETRY_NOW",
@@ -198,12 +201,55 @@ def _reasoning(transaction: dict[str, Any], customer: dict[str, Any]) -> list[st
     return statements[:6]
 
 
+def _reason_codes(transaction: dict[str, Any], customer: dict[str, Any]) -> list[str]:
+    """Structured, observable reason codes for UI and audit consumers."""
+    codes = []
+    if float(customer.get("payment_success_rate", 0)) >= .75:
+        codes.append("HIGH_SUCCESS_HISTORY")
+    if int(transaction.get("attempt_count", 0)) <= 1:
+        codes.append("LOW_ATTEMPT_COUNT")
+    if transaction.get("failure_reason") in {"BANK_TIMEOUT", "NETWORK_ERROR"}:
+        codes.append("TEMPORARY_PAYMENT_FAILURE")
+    if int(customer.get("contacts_last_7_days", 0)) >= 2:
+        codes.append("CUSTOMER_CONTACT_FATIGUE")
+    if float(transaction.get("amount", 0)) >= 15_000:
+        codes.append("HIGH_TRANSACTION_VALUE")
+    if float(customer.get("previous_recovery_success_rate", 0)) < .2:
+        codes.append("LOW_RECOVERY_PROBABILITY")
+    if int(transaction.get("attempt_count", 0)) >= 3:
+        codes.append("REPEATED_FAILURE")
+    if transaction.get("failure_reason") in {"CARD_EXPIRED", "MANDATE_FAILED"}:
+        codes.append("PAYMENT_METHOD_UPDATE_REQUIRED")
+    return codes
+
+
+def _priority_score(transaction: dict[str, Any], customer: dict[str, Any], probability: float) -> float:
+    """Explainable expected-value priority, reduced by retry/contact fatigue."""
+    amount = float(transaction.get("amount", 0))
+    severity = {"CARD_EXPIRED": 1.25, "MANDATE_FAILED": 1.2, "PAYMENT_DECLINED": 1.1}.get(transaction.get("failure_reason"), 1.0)
+    attempts = int(transaction.get("attempt_count", 0))
+    contacts = int(customer.get("contacts_last_7_days", 0))
+    fatigue = max(.35, 1 - .12 * max(attempts - 1, 0) - .10 * contacts)
+    return amount * probability * severity * fatigue
+
+
+def _priority_level(score: float) -> str:
+    return "CRITICAL" if score >= 20_000 else "HIGH" if score >= 9_000 else "MEDIUM" if score >= 3_000 else "LOW"
+
+
 def analyze_transaction(
-    transaction: dict[str, Any], customer: dict[str, Any]
+    transaction: dict[str, Any], customer: dict[str, Any], model_probabilities: dict[str, float] | None = None
 ) -> dict[str, Any]:
     """Analyze a failed payment and return an explainable recovery decision."""
-    action_scores = _score_actions(transaction, customer)
-    estimated_action_probabilities = _estimated_probabilities(action_scores)
+    fallback_scores = _score_actions(transaction, customer)
+    inferred_probabilities = model_probabilities or predict_action_probabilities(transaction, customer)
+    estimated_action_probabilities = inferred_probabilities or _estimated_probabilities(fallback_scores)
+    # Scores are presentation-friendly probability points; expected value remains
+    # the canonical decision criterion below.
+    action_scores = {
+        action: round(probability * 100, 2)
+        for action, probability in estimated_action_probabilities.items()
+    }
     amount = float(transaction.get("amount", 0))
     expected_action_values = _expected_action_values(amount, estimated_action_probabilities)
     action, highest_score, second_highest_score = _select_action(
@@ -214,8 +260,10 @@ def analyze_transaction(
         customer,
     )
     recovery_probability = estimated_action_probabilities[action]
-    score_gap = highest_score - second_highest_score
-    confidence = min(0.95, max(0.55, 0.55 + min(score_gap / 100, 0.40)))
+    ranked_probabilities = sorted(estimated_action_probabilities.values(), reverse=True)
+    probability_margin = ranked_probabilities[0] - ranked_probabilities[1]
+    # Confidence is derived from the model/fallback probability separation, not invented.
+    confidence = min(0.95, max(0.35, 0.45 + probability_margin))
     delay = 0 if action == "RETRY_NOW" else 1440 if action == "RETRY_LATER" and transaction.get("failure_reason") == "INSUFFICIENT_FUNDS" else 60 if action == "RETRY_LATER" else None
 
     return {
@@ -235,4 +283,8 @@ def analyze_transaction(
             candidate: round(value, 2)
             for candidate, value in expected_action_values.items()
         },
+        "reason_codes": _reason_codes(transaction, customer),
+        "model": model_metadata(),
+        "priority_score": round(_priority_score(transaction, customer, recovery_probability), 2),
+        "priority_level": _priority_level(_priority_score(transaction, customer, recovery_probability)),
     }
